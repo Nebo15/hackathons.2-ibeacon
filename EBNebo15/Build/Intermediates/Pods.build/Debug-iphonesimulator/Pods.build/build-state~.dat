@@ -1,0 +1,83 @@
+TPods
+v6
+r1
+cCheck dependencies
+cCompileC /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052670DD90000000000A92BC0
+t1382485465
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052670E080000000000000176
+t1382485512
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523A32E500000000000003B5
+t1379545829
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052670DE100000000000001A0
+t1382485473
+s416
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+t1383231413
+s3176
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList
+c0000000052726FB50000000000000088
+t1383231413
+s136
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/libPods-AFNetworking.a
+c0000000052726FB50000000000149528
+t1383231413
+s1348904
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a
+t2
+s0
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods-dummy.m
+c0000000052726F0F0000000000000070
+t1383231247
+s112
+
+CBuild AST from /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescb479a35a722b841^64e69a35a722b841^---0#1#1#--18"Check dependencies36"B0602B32-149B-411C-9F93-ACB71ED233D7-
+
+CCompileC /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404924213.605498
+e404924213.710132
+r1
+xCompileC
+x/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o
+x/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods-dummy.m225"CompileC /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler12149b35a722b841^2dcdb535a722b841^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods-dummy.m0000000000000000^3337"CompileC /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15/Pods    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Pods-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Pods-dummy.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o36"F0C81927-D59B-4E4F-B451-7C67E6AAADF3-
+bCCA73E7F-02BC-455E-AAA2-138C5A040ED9
+
+CLibtool /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a normal i386
+s404924213.710609
+e404924213.732459
+r1
+xLibtool
+x/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Libtool /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a normal i386105"Libtool /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a normal i386f9f7b535a722b841^7b83bb35a722b841^---0#0#1#--1005"Libtool /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd /Users/evgenbakumenko/Desktop/EBNebo15/Pods    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -filelist /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a36"BC65E7F5-86F5-462D-B77A-2699003E571D-
+bCCA73E7F-02BC-455E-AAA2-138C5A040ED9
+

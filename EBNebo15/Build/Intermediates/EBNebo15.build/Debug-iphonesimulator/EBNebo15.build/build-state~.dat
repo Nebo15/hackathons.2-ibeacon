@@ -1,0 +1,242 @@
+TEBNebo15
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
+cDataModelVersionCompile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
+cProcessPCH /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000523A32E500000000000003B5
+t1379545829
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052670DE100000000000001A0
+t1382485473
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000523A32FE0000000000000AC9
+t1379545854
+s2761
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o
+t2
+s0
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o
+t2
+s0
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.o
+t2
+s0
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
+c0000000052726FB50000000000000103
+t1383231413
+s259
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.pch
+t1383231414
+s109952
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd
+t2
+s0
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m
+c000000005272698A0000000000000770
+t1383229834
+s1904
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m
+c000000005272698A0000000000000234
+t1383229834
+s564
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m
+c0000000052726FAE000000000000101F
+t1383231406
+s4127
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Prefix.pch
+c000000005272698A0000000000000162
+t1383229834
+s354
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
+c000000005272698A0000000000000088
+t1383229834
+s136
+
+N/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m
+c000000005272698A000000000000015F
+t1383229834
+s351
+
+CBuild AST from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m
+r0
+
+CBuild AST from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m
+r0
+
+CBuild AST from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m
+r0
+
+CBuild AST from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesecd9bb35a722b841^5169bc35a722b841^---0#1#1#--18"Check dependencies36"90B21A4B-0952-4AF1-B356-937F58DFCA07-
+
+CCompileAssetCatalog /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404924214.917259
+e404924215.135068
+r0
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o
+x/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m:10:
+oIn file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.h:11:
+o/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.h:2:9: fatal error: 'AFIncrementalStore.h' file not found
+o#import "AFIncrementalStore.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m209"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler32e6ea36a722b841^e7712837a722b841^-379"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m:10:In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.h:11:/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.h:2:9: fatal error: 'AFIncrementalStore.h' file not found#import "AFIncrementalStore.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@37"'AFIncrementalStore.h' file not found-404924215#18446744073709551615#0#2(2@89"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m:10:-404924215#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@70"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m0000000000000000^9#8#9#8#157#0#21"Apple LLVM 5.0 Notice--2@89"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.h:11:-404924215#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.h0000000000000000^10#8#10#8#181#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.h0000000000000000^1#8#1#8#9#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@70"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m0000000000000000^3730"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o36"515E5441-AAE9-42F5-B698-75F251F7A3AA-
+bDA7F9A3B-E306-416F-925E-0DA4C860AF9B
+
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404924214.917562
+e404924214.957003
+r0
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o
+x/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m:1:
+o/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.h:1:9: fatal error: 'AFIncrementalStore.h' file not found
+o#import "AFIncrementalStore.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m225"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler50feea36a722b841^7efdf436a722b841^-293"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m:1:/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.h:1:9: fatal error: 'AFIncrementalStore.h' file not found#import "AFIncrementalStore.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@37"'AFIncrementalStore.h' file not found-404924214#18446744073709551615#0#1(2@100"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m:1:-404924214#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@82"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m0000000000000000^0#8#0#8#8#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@82"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.h0000000000000000^0#8#0#8#8#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@82"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m0000000000000000^3770"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o36"BC3E5BE6-1F8F-4DE7-A887-2D640FBD3FB5-
+bDA7F9A3B-E306-416F-925E-0DA4C860AF9B
+
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404924214.917875
+e404924215.088379
+r0
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.o
+x/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m:1:
+o/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.h:2:9: fatal error: 'AFIncrementalStore.h' file not found
+o#import "AFIncrementalStore.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m239"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.o EBNebo15/Classes/EBNebo15IncrementalStore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e0eeb36a722b841^5a9f1637a722b841^-307"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m:1:/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.h:2:9: fatal error: 'AFIncrementalStore.h' file not found#import "AFIncrementalStore.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@37"'AFIncrementalStore.h' file not found-404924215#18446744073709551615#0#1(2@107"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m:1:-404924215#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m0000000000000000^0#8#0#8#8#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.h0000000000000000^1#8#1#8#9#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@89"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m0000000000000000^3812"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.o EBNebo15/Classes/EBNebo15IncrementalStore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.o36"4E0422FB-3E55-4285-8A8B-ACF48842487E-
+bDA7F9A3B-E306-416F-925E-0DA4C860AF9B
+
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404924214.916917
+e404924215.155115
+r0
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o
+x/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m:11:
+oIn file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.h:11:
+o/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.h:2:9: fatal error: 'AFIncrementalStore.h' file not found
+o#import "AFIncrementalStore.h"
+o        ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m191"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler25ceea36a722b841^b0762837a722b841^-370"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m:11:In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.h:11:/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.h:2:9: fatal error: 'AFIncrementalStore.h' file not found#import "AFIncrementalStore.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@37"'AFIncrementalStore.h' file not found-404924215#18446744073709551615#0#2(2@80"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m:11:-404924215#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@61"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m0000000000000000^10#8#10#8#172#0#21"Apple LLVM 5.0 Notice--2@89"In file included from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.h:11:-404924215#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@70"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.h0000000000000000^10#8#10#8#181#0#21"Apple LLVM 5.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.h0000000000000000^1#8#1#8#9#0#29"Lexical or Preprocessor Issue--0#0#1#-19%DVTDocumentLocation4@61"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m0000000000000000^3676"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o36"D69C1ED0-E7A2-447C-8654-1E45215FE287-
+bDA7F9A3B-E306-416F-925E-0DA4C860AF9B
+
+CCopyStringsFile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/en.lproj/InfoPlist.strings EBNebo15/en.lproj/InfoPlist.strings
+r0
+
+CCpResource Podfile Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile
+r0
+
+CDataModelVersionCompile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
+s404924213.775690
+e404924214.372901
+r1
+xDataModelVersionCompile
+x/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd
+x/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"DataModelVersionCompile Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd EBNebo15/EBNebo15.xcdatamodeld118"DataModelVersionCompile Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd EBNebo15/EBNebo15.xcdatamodeld09a6c635a722b841^9a785f36a722b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld/0000000000000000^889"DataModelVersionCompile Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd EBNebo15/EBNebo15.xcdatamodeld    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -XD_MOMC_IOS_TARGET_VERSION=7.0 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd36"3BB3FD45-3ADB-41F2-880C-1D7D6480680B-
+bDA7F9A3B-E306-416F-925E-0DA4C860AF9B
+
+CGenerateDSYMFile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15
+r0
+
+CLd /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 normal i386
+r0
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
+s404924213.736927
+e404924213.775164
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'154"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh0438bd35a722b841^9b71c635a722b841^---0#0#1#--362"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh    cd /Users/evgenbakumenko/Desktop/EBNebo15    /bin/sh -c /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh36"8AA975F1-B30A-4D4F-B419-E353E027680A-
+bDA7F9A3B-E306-416F-925E-0DA4C860AF9B
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh
+r0
+
+CProcessInfoPlistFile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Info.plist /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Info.plist
+r0
+
+CProcessPCH /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s404924213.776136
+e404924214.916158
+r1
+xProcessPCH
+x/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.pch
+xEBNebo15/EBNebo15-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile EBNebo15/EBNebo15-Prefix.pch215"ProcessPCH Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9acec635a722b841^728aea36a722b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Prefix.pch0000000000000000^3591"ProcessPCH Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.dia -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.d -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Prefix.pch -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.pch36"A09F8022-B400-47F0-A080-36514AE32EF9-
+bDA7F9A3B-E306-416F-925E-0DA4C860AF9B
+
+CProcessPCH /Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/EBNebo15-gssvqorddwqghierlplgkjcexuov/Index/PrecompiledHeaders/EBNebo15-Prefix-geulprlywupexqbusyjiqjnlizjc_ast/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app
+r0
+
