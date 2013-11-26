@@ -11,4 +11,8 @@
 @interface EBLoginManager : NSObject
 +(EBLoginManager*)sharedManager;
 - (void)loginWithFacebookWithCompletion:(void(^)(BOOL))completion;
+- (NSString*)facebookUserId;
+- (NSString*)facebookUserName;
+- (BOOL)isUserLogined;
+
 @end

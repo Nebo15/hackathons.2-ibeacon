@@ -9,6 +9,7 @@
 
 #import "EBAppDelegate.h"
 #import "EBLoginViewController.h"
+#import "EBDashboardViewController.h"
 #import "AFNetworkActivityIndicatorManager.h"
 #import <Facebook.h>
 
@@ -22,11 +23,15 @@ didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     [[AFNetworkActivityIndicatorManager sharedManager] setEnabled:YES];
     
+    // Override point for customization after application launch.
+    [FBProfilePictureView class];
+    
     // This location manager will be used to notify the user of region state transitions.
     _locationManager = [[CLLocationManager alloc] init];
     _locationManager.delegate = self;
 
     self.navigationController = [[UINavigationController alloc] initWithRootViewController:[EBLoginViewController new]];
+    self.navigationController.navigationBar.translucent = NO;
     
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.window.rootViewController = self.navigationController;
@@ -60,6 +65,13 @@ didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 - (void)applicationWillTerminate:(UIApplication *)application
 {
     // Saves changes in the application's managed object context before the application terminates.
+}
+
+- (void)setDashboardToRootViewController
+{
+    self.navigationController = [[UINavigationController alloc] initWithRootViewController:[EBDashboardViewController new]];
+    self.navigationController.navigationBar.translucent = NO;
+    self.window.rootViewController = self.navigationController;
 }
 
 #pragma mark - CoreLocationDelegate

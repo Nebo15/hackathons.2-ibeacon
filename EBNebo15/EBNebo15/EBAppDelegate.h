@@ -20,4 +20,5 @@ static NSString *const kNotificationSessionOpen = @"kNotificationSessionOpen";
 @property (strong, nonatomic) UINavigationController *navigationController;
 
 - (BOOL)openSessionWithAllowLoginUI:(BOOL)allowLoginUI;
+- (void)setDashboardToRootViewController;
 @end

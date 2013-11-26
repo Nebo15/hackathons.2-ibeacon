@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3146007B1843A42D00CD69C6 /* EBDashboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 314600791843A42D00CD69C6 /* EBDashboardViewController.m */; };
+		3146007C1843A42D00CD69C6 /* EBDashboardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3146007A1843A42D00CD69C6 /* EBDashboardViewController.xib */; };
+		31ACE469184361B900784F20 /* EBKeychianManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 31ACE468184361B900784F20 /* EBKeychianManager.m */; };
 		62ECA972858546759FE190C5 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FE50627AB5246399CEF792F /* libPods.a */; };
 		815734201822A10A00B9F36C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8157341F1822A10A00B9F36C /* Foundation.framework */; };
 		815734221822A10A00B9F36C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 815734211822A10A00B9F36C /* CoreGraphics.framework */; };
@@ -43,6 +46,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		314600781843A42D00CD69C6 /* EBDashboardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EBDashboardViewController.h; sourceTree = "<group>"; };
+		314600791843A42D00CD69C6 /* EBDashboardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EBDashboardViewController.m; sourceTree = "<group>"; };
+		3146007A1843A42D00CD69C6 /* EBDashboardViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EBDashboardViewController.xib; sourceTree = "<group>"; };
+		31ACE467184361B900784F20 /* EBKeychianManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EBKeychianManager.h; sourceTree = "<group>"; };
+		31ACE468184361B900784F20 /* EBKeychianManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EBKeychianManager.m; sourceTree = "<group>"; };
 		3FE50627AB5246399CEF792F /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		8157341C1822A10A00B9F36C /* EBNebo15.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EBNebo15.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8157341F1822A10A00B9F36C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -207,6 +215,8 @@
 			children = (
 				8157345F1822A87500B9F36C /* EBLoginViewController.h */,
 				815734601822A87600B9F36C /* EBLoginViewController.m */,
+				314600781843A42D00CD69C6 /* EBDashboardViewController.h */,
+				314600791843A42D00CD69C6 /* EBDashboardViewController.m */,
 			);
 			name = Controllers;
 			sourceTree = "<group>";
@@ -215,6 +225,7 @@
 			isa = PBXGroup;
 			children = (
 				815734611822A87600B9F36C /* EBLoginViewController.xib */,
+				3146007A1843A42D00CD69C6 /* EBDashboardViewController.xib */,
 			);
 			name = "XIB's";
 			sourceTree = "<group>";
@@ -224,6 +235,8 @@
 			children = (
 				815ED4D61822C353007A6AC3 /* EBLoginManager.h */,
 				815ED4D71822C353007A6AC3 /* EBLoginManager.m */,
+				31ACE467184361B900784F20 /* EBKeychianManager.h */,
+				31ACE468184361B900784F20 /* EBKeychianManager.m */,
 			);
 			name = Utils;
 			sourceTree = "<group>";
@@ -310,6 +323,7 @@
 				815734631822A87600B9F36C /* EBLoginViewController.xib in Resources */,
 				815734291822A10A00B9F36C /* Podfile in Resources */,
 				815734331822A10A00B9F36C /* InfoPlist.strings in Resources */,
+				3146007C1843A42D00CD69C6 /* EBDashboardViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -365,8 +379,10 @@
 				815734351822A10A00B9F36C /* main.m in Sources */,
 				815ED4D81822C353007A6AC3 /* EBLoginManager.m in Sources */,
 				815734381822A10A00B9F36C /* EBAppDelegate.m in Sources */,
+				3146007B1843A42D00CD69C6 /* EBDashboardViewController.m in Sources */,
 				8157343C1822A10A00B9F36C /* EBNebo15.xcdatamodeld in Sources */,
 				8157342F1822A10A00B9F36C /* EBNebo15APIClient.m in Sources */,
+				31ACE469184361B900784F20 /* EBKeychianManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
