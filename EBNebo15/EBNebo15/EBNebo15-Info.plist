@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CFBundleURLSchemes</key>
+	<array>
+		<string>fb647001078671477</string>
+	</array>
 	<key>NSLocationUsageDescription</key>
 	<string>Demonstrate beacon monitoring and ranging</string>
 	<key>CFBundleDevelopmentRegion</key>
@@ -39,5 +43,14 @@
 	</array>
 	<key>FacebookAppID</key>
 	<string>647001078671477</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb647001078671477</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>

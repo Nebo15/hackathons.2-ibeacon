@@ -6,6 +6,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EBDashboardViewController">
             <connections>
+                <outlet property="pv_membersTableView" destination="8If-jp-c6d" id="4zw-A4-9xm"/>
                 <outlet property="userAvatarImageView" destination="MMj-i5-qsO" id="yb1-kb-PvP"/>
                 <outlet property="userListLabel" destination="1aC-OW-q9d" id="xbA-tt-NrN"/>
                 <outlet property="userNameLabel" destination="0PS-6i-U1h" id="udv-ec-2X5"/>
@@ -31,7 +32,7 @@
                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                     <nil key="highlightedColor"/>
                 </label>
-                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="8If-jp-c6d">
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" allowsSelection="NO" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="8If-jp-c6d">
                     <rect key="frame" x="0.0" y="229" width="320" height="339"/>
                     <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                     <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>

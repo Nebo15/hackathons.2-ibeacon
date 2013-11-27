@@ -125,6 +125,9 @@ static NSString *const kFacebookUserId = @"id";
              NSError *error) {
                if (!error) {
                    _user = user;
+                   [[EBKeychianManager sharedManager] addAccountWithName:user[kFacebookLoginEmail] serviceName:@"Facebook"  withSuccess:^(BOOL success) {
+                       NSLog(@"Login success: %@", success?@"YES":@"NO");
+                   }];
                    completion(YES);
                }
            }];

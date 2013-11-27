@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		312013061846345C003E8B54 /* EBMember.m in Sources */ = {isa = PBXBuildFile; fileRef = 312013051846345C003E8B54 /* EBMember.m */; };
+		31201309184636E6003E8B54 /* ArrayDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 31201308184636E6003E8B54 /* ArrayDataSource.m */; };
+		3120130D1846373E003E8B54 /* EBMemberCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3120130C1846373E003E8B54 /* EBMemberCell.m */; };
+		31201312184637AF003E8B54 /* EBMemberCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 31201311184637AF003E8B54 /* EBMemberCell.xib */; };
+		3120131618463BFD003E8B54 /* NSDate+Converter.m in Sources */ = {isa = PBXBuildFile; fileRef = 3120131518463BFD003E8B54 /* NSDate+Converter.m */; };
+		3120131918463EDC003E8B54 /* EBMembersManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3120131818463EDC003E8B54 /* EBMembersManager.m */; };
 		3146007B1843A42D00CD69C6 /* EBDashboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 314600791843A42D00CD69C6 /* EBDashboardViewController.m */; };
 		3146007C1843A42D00CD69C6 /* EBDashboardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3146007A1843A42D00CD69C6 /* EBDashboardViewController.xib */; };
 		31ACE469184361B900784F20 /* EBKeychianManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 31ACE468184361B900784F20 /* EBKeychianManager.m */; };
@@ -46,6 +52,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		312013041846345C003E8B54 /* EBMember.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EBMember.h; sourceTree = "<group>"; };
+		312013051846345C003E8B54 /* EBMember.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EBMember.m; sourceTree = "<group>"; };
+		31201307184636E6003E8B54 /* ArrayDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArrayDataSource.h; sourceTree = "<group>"; };
+		31201308184636E6003E8B54 /* ArrayDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ArrayDataSource.m; sourceTree = "<group>"; };
+		3120130B1846373E003E8B54 /* EBMemberCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EBMemberCell.h; sourceTree = "<group>"; };
+		3120130C1846373E003E8B54 /* EBMemberCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EBMemberCell.m; sourceTree = "<group>"; };
+		31201311184637AF003E8B54 /* EBMemberCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EBMemberCell.xib; sourceTree = "<group>"; };
+		3120131418463BFD003E8B54 /* NSDate+Converter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+Converter.h"; sourceTree = "<group>"; };
+		3120131518463BFD003E8B54 /* NSDate+Converter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+Converter.m"; sourceTree = "<group>"; };
+		3120131718463EDC003E8B54 /* EBMembersManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EBMembersManager.h; sourceTree = "<group>"; };
+		3120131818463EDC003E8B54 /* EBMembersManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EBMembersManager.m; sourceTree = "<group>"; };
 		314600781843A42D00CD69C6 /* EBDashboardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EBDashboardViewController.h; sourceTree = "<group>"; };
 		314600791843A42D00CD69C6 /* EBDashboardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EBDashboardViewController.m; sourceTree = "<group>"; };
 		3146007A1843A42D00CD69C6 /* EBDashboardViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EBDashboardViewController.xib; sourceTree = "<group>"; };
@@ -112,6 +129,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3120130A18463721003E8B54 /* TableViewCells */ = {
+			isa = PBXGroup;
+			children = (
+				3120130B1846373E003E8B54 /* EBMemberCell.h */,
+				3120130C1846373E003E8B54 /* EBMemberCell.m */,
+			);
+			name = TableViewCells;
+			sourceTree = "<group>";
+		};
+		3120130E18463745003E8B54 /* TableViewCells */ = {
+			isa = PBXGroup;
+			children = (
+				31201311184637AF003E8B54 /* EBMemberCell.xib */,
+			);
+			name = TableViewCells;
+			sourceTree = "<group>";
+		};
+		3120131318463BD6003E8B54 /* Extentions */ = {
+			isa = PBXGroup;
+			children = (
+				3120131418463BFD003E8B54 /* NSDate+Converter.h */,
+				3120131518463BFD003E8B54 /* NSDate+Converter.m */,
+			);
+			name = Extentions;
+			sourceTree = "<group>";
+		};
 		815734131822A10A00B9F36C = {
 			isa = PBXGroup;
 			children = (
@@ -150,6 +193,8 @@
 		815734271822A10A00B9F36C /* EBNebo15 */ = {
 			isa = PBXGroup;
 			children = (
+				3120131318463BD6003E8B54 /* Extentions */,
+				3120130A18463721003E8B54 /* TableViewCells */,
 				815ED4D51822C33F007A6AC3 /* Utils */,
 				8157345E1822A86100B9F36C /* Controllers */,
 				815734281822A10A00B9F36C /* Podfile */,
@@ -188,6 +233,8 @@
 			isa = PBXGroup;
 			children = (
 				8157343A1822A10A00B9F36C /* EBNebo15.xcdatamodeld */,
+				312013041846345C003E8B54 /* EBMember.h */,
+				312013051846345C003E8B54 /* EBMember.m */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -224,6 +271,7 @@
 		815ED4D41822C2FC007A6AC3 /* XIB's */ = {
 			isa = PBXGroup;
 			children = (
+				3120130E18463745003E8B54 /* TableViewCells */,
 				815734611822A87600B9F36C /* EBLoginViewController.xib */,
 				3146007A1843A42D00CD69C6 /* EBDashboardViewController.xib */,
 			);
@@ -233,10 +281,14 @@
 		815ED4D51822C33F007A6AC3 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				31201307184636E6003E8B54 /* ArrayDataSource.h */,
+				31201308184636E6003E8B54 /* ArrayDataSource.m */,
 				815ED4D61822C353007A6AC3 /* EBLoginManager.h */,
 				815ED4D71822C353007A6AC3 /* EBLoginManager.m */,
 				31ACE467184361B900784F20 /* EBKeychianManager.h */,
 				31ACE468184361B900784F20 /* EBKeychianManager.m */,
+				3120131718463EDC003E8B54 /* EBMembersManager.h */,
+				3120131818463EDC003E8B54 /* EBMembersManager.m */,
 			);
 			name = Utils;
 			sourceTree = "<group>";
@@ -319,6 +371,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31201312184637AF003E8B54 /* EBMemberCell.xib in Resources */,
 				815734411822A10A00B9F36C /* Images.xcassets in Resources */,
 				815734631822A87600B9F36C /* EBLoginViewController.xib in Resources */,
 				815734291822A10A00B9F36C /* Podfile in Resources */,
@@ -376,12 +429,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				815734621822A87600B9F36C /* EBLoginViewController.m in Sources */,
+				3120131918463EDC003E8B54 /* EBMembersManager.m in Sources */,
 				815734351822A10A00B9F36C /* main.m in Sources */,
 				815ED4D81822C353007A6AC3 /* EBLoginManager.m in Sources */,
+				3120131618463BFD003E8B54 /* NSDate+Converter.m in Sources */,
+				312013061846345C003E8B54 /* EBMember.m in Sources */,
 				815734381822A10A00B9F36C /* EBAppDelegate.m in Sources */,
+				3120130D1846373E003E8B54 /* EBMemberCell.m in Sources */,
 				3146007B1843A42D00CD69C6 /* EBDashboardViewController.m in Sources */,
 				8157343C1822A10A00B9F36C /* EBNebo15.xcdatamodeld in Sources */,
 				8157342F1822A10A00B9F36C /* EBNebo15APIClient.m in Sources */,
+				31201309184636E6003E8B54 /* ArrayDataSource.m in Sources */,
 				31ACE469184361B900784F20 /* EBKeychianManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -507,7 +565,7 @@
 				GCC_PREFIX_HEADER = "EBNebo15/EBNebo15-Prefix.pch";
 				INFOPLIST_FILE = "EBNebo15/EBNebo15-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "EC58428E-2F64-43C8-8AF9-C6EEF500AB34";
+				PROVISIONING_PROFILE = "67994E8E-7A1E-4879-BD86-EC6690FAC13B";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -524,7 +582,7 @@
 				GCC_PREFIX_HEADER = "EBNebo15/EBNebo15-Prefix.pch";
 				INFOPLIST_FILE = "EBNebo15/EBNebo15-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "EC58428E-2F64-43C8-8AF9-C6EEF500AB34";
+				PROVISIONING_PROFILE = "67994E8E-7A1E-4879-BD86-EC6690FAC13B";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;

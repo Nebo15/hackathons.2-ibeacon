@@ -165,4 +165,18 @@ didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
      object:session];
 }
 
+- (BOOL)application:(UIApplication *)application openURL:(NSURL *)url
+  sourceApplication:(NSString *)sourceApplication annotation:(id)annotation {
+    
+    [FBAppCall handleOpenURL:url sourceApplication:sourceApplication fallbackHandler:^(FBAppCall *call) {
+        
+        if (call.appLinkData && call.appLinkData.targetURL) {
+            [[NSNotificationCenter defaultCenter] postNotificationName:@"APP_HANDLED_URL" object:call.appLinkData.targetURL];
+        }
+        
+    }];
+    
+    return YES;
+}
+
 @end
