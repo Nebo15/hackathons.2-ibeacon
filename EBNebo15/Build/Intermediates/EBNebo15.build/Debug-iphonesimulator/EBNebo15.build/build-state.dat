@@ -2,27 +2,30 @@ TEBNebo15
 v6
 r1
 cCheck dependencies
-cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
-cDataModelVersionCompile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
-cProcessPCH /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 normal i386
-cCompileXIB /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.xib
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
+cDataModelVersionCompile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
+cProcessPCH /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 normal i386
+cCompileXIB /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib
 cCpResource Podfile Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile
-cCopyStringsFile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/en.lproj/InfoPlist.strings EBNebo15/en.lproj/InfoPlist.strings
-cCompileAssetCatalog /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Images.xcassets
-cProcessInfoPlistFile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Info.plist /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Info.plist
-cGenerateDSYMFile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15
-cPhaseScriptExecution Copy\ Pods\ Resources /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh
-cTouch /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app
+cCopyStringsFile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/en.lproj/InfoPlist.strings EBNebo15/en.lproj/InfoPlist.strings
+cCompileXIB /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.xib
+cCompileAssetCatalog /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Images.xcassets
+cProcessInfoPlistFile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Info.plist /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15-Info.plist
+cGenerateDSYMFile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh
+cTouch /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
-c0000000052670E080000000000000176
-t1382485512
+c0000000052817DEA0000000000000176
+t1384218090
 s374
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
@@ -681,6 +684,461 @@ c0000000052728B3C000000000000091D
 t1383238460
 s2333
 
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o
+t1385503041
+s90428
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.o
+t1385505087
+s65836
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.o
+t1385500337
+s10456
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o
+t1385503041
+s83396
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o
+t1385503041
+s55112
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15.LinkFileList
+c0000000052950EB1000000000000049E
+t1385500337
+s1182
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o
+t1385500337
+s15168
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o
+t1385503041
+s5192
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
+c0000000052726FB50000000000000103
+t1383231413
+s259
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh
+c0000000052726FB5000000000000002F
+t1383231413
+s47
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/assetcatalog_dependencies.txt
+t1383231682
+s378
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/assetcatalog_generated_info.plist
+t1383231682
+s525
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch.pch
+t1385500337
+s116932
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app
+t1385505088
+s442
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM
+t1385503042
+s102
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBDashboardViewController.nib
+t1385500343
+s3524
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBLoginViewController.nib
+t1385500343
+s2860
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15
+t1385505088
+s1819256
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd
+t1383231414
+s170
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Info.plist
+t1383241479
+s1113
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/PkgInfo
+t1383241479
+s8
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile
+t1385500337
+s103
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/en.lproj/InfoPlist.strings
+t1383231680
+s42
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a
+c0000000052950EB1000000000050DD30
+t1385500337
+s5299504
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.h
+c000000005272702C00000000000000A1
+t1383231532
+s161
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m
+c00000000527270960000000000000251
+t1383231638
+s593
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.h
+c000000005295183700000000000002DA
+t1385502775
+s730
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.m
+c000000005295182E0000000000001AC3
+t1385502766
+s6851
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.h
+c0000000052950E9500000000000000F7
+t1385500309
+s247
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.m
+c000000005295203A0000000000000A43
+t1385504826
+s2627
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.xib
+c0000000052950E950000000000001C04
+t1385500309
+s7172
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.h
+c0000000052950E9500000000000001A0
+t1385500309
+s416
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.m
+c0000000052950E950000000000000384
+t1385500309
+s900
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.h
+c0000000052950E95000000000000019A
+t1385500309
+s410
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m
+c00000000529519410000000000001D07
+t1385503041
+s7431
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.h
+c00000000527270F500000000000000EF
+t1383231733
+s239
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.m
+c0000000052950E95000000000000056F
+t1385500309
+s1391
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib
+c0000000052950E950000000000001185
+t1385500309
+s4485
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15-Info.plist
+c0000000052729705000000000000054E
+t1383241477
+s1358
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15-Prefix.pch
+c000000005272698A0000000000000162
+t1383229834
+s354
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
+c000000005272698A0000000000000088
+t1383229834
+s136
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Images.xcassets
+c000000005272698A0000000000000088
+t1383229834
+s136
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/en.lproj/InfoPlist.strings
+c000000005272698A000000000000002D
+t1383229834
+s45
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/main.m
+c000000005272698A000000000000015F
+t1383229834
+s351
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Podfile
+c0000000052950E950000000000000067
+t1385500309
+s103
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFHTTPRequestOperation.h
+c0000000052726F0E0000000000001192
+t1383231246
+s4498
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFHTTPRequestOperationManager.h
+c0000000052726F0E0000000000004912
+t1383231246
+s18706
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFNetworkActivityIndicatorManager.h
+c0000000052726F0E0000000000000EC2
+t1383231246
+s3778
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFNetworkReachabilityManager.h
+c0000000052726F0E0000000000001C91
+t1383231246
+s7313
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFSecurityPolicy.h
+c0000000052726F0E0000000000001024
+t1383231246
+s4132
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFURLConnectionOperation.h
+c0000000052726F0E000000000000481C
+t1383231246
+s18460
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFURLRequestSerialization.h
+c0000000052726F0E000000000000411B
+t1383231246
+s16667
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFURLResponseSerialization.h
+c0000000052726F0E0000000000002786
+t1383231246
+s10118
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAccessTokenData.h
+c0000000052728B3C000000000000144C
+t1383238460
+s5196
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAppCall.h
+c0000000052728B3C00000000000023DB
+t1383238460
+s9179
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAppEvents.h
+c0000000052728B3C0000000000004A2D
+t1383238460
+s18989
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAppLinkData.h
+c0000000052728B3C00000000000005E7
+t1383238460
+s1511
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBCacheDescriptor.h
+c0000000052728B3C000000000000055B
+t1383238460
+s1371
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialog.h
+c0000000052728B3C00000000000012C6
+t1383238460
+s4806
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialogs.h
+c0000000052728B3C0000000000005CDD
+t1383238460
+s23773
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialogsData.h
+c0000000052728B3C0000000000000538
+t1383238460
+s1336
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialogsParams.h
+c0000000052728B3C0000000000000341
+t1383238460
+s833
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBError.h
+c0000000052728B3C00000000000034EF
+t1383238460
+s13551
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBErrorUtility.h
+c0000000052728B3C00000000000009A5
+t1383238460
+s2469
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFrictionlessRecipientCache.h
+c0000000052728B3C0000000000000B81
+t1383238460
+s2945
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFrictionlessRequestSettings.h
+c0000000052728B3C000000000000095D
+t1383238460
+s2397
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFriendPickerViewController.h
+c0000000052728B3C00000000000023A6
+t1383238460
+s9126
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphLocation.h
+c0000000052728B3C000000000000075F
+t1383238460
+s1887
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphObject.h
+c0000000052728B3C0000000000002B48
+t1383238460
+s11080
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphPlace.h
+c0000000052728B3C000000000000060D
+t1383238460
+s1549
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphUser.h
+c0000000052728B3C0000000000000863
+t1383238460
+s2147
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBInsights.h
+c0000000052728B3C0000000000000A81
+t1383238460
+s2689
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBLoginDialog.h
+c0000000052728B3C000000000000057B
+t1383238460
+s1403
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBLoginView.h
+c0000000052728B3C0000000000001685
+t1383238460
+s5765
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBNativeDialogs.h
+c0000000052728B3C0000000000000F8A
+t1383238460
+s3978
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphAction.h
+c0000000052728B3C0000000000000C43
+t1383238460
+s3139
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphActionShareDialogParams.h
+c0000000052728B3C000000000000059B
+t1383238460
+s1435
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphObject.h
+c0000000052728B3C0000000000000877
+t1383238460
+s2167
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBPlacePickerViewController.h
+c0000000052728B3C0000000000002101
+t1383238460
+s8449
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBProfilePictureView.h
+c0000000052728B3C0000000000000986
+t1383238460
+s2438
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBRequest.h
+c0000000052728B3C0000000000006094
+t1383238460
+s24724
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBRequestConnection.h
+c0000000052728B3C0000000000006529
+t1383238460
+s25897
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSession.h
+c0000000052728B3C00000000000092D2
+t1383238460
+s37586
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSessionManualTokenCachingStrategy.h
+c0000000052728B3C0000000000000478
+t1383238460
+s1144
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSessionTokenCachingStrategy.h
+c0000000052728B3C0000000000001A1B
+t1383238460
+s6683
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSettings.h
+c0000000052728B3C000000000000250F
+t1383238460
+s9487
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBShareDialogParams.h
+c0000000052728B3C000000000000096B
+t1383238460
+s2411
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBUserSettingsViewController.h
+c0000000052728B3C0000000000001006
+t1383238460
+s4102
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBViewController.h
+c0000000052728B3C0000000000000F63
+t1383238460
+s3939
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBWebDialogs.h
+c0000000052728B3C0000000000002328
+t1383238460
+s9000
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/Facebook.h
+c0000000052728B3C000000000000218D
+t1383238460
+s8589
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FacebookSDK.h
+c0000000052728B3C0000000000001649
+t1383238460
+s5705
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/NSError+FBError.h
+c0000000052728B3C000000000000091D
+t1383238460
+s2333
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain/SSKeychain.h
+c0000000052950E950000000000001452
+t1385500309
+s5202
+
+N/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain/SSKeychainQuery.h
+c0000000052950E950000000000000A8F
+t1385500309
+s2703
+
 N/usr/lib/libSystem.B.dylib
 c000000005267001F000000000000E6D0
 t1382481951
@@ -834,9 +1292,30 @@ r0
 CBuild AST from /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m
 r0
 
+CBuild AST from /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m
+r0
+
+CBuild AST from /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.m
+r0
+
+CBuild AST from /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.m
+r0
+
+CBuild AST from /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.m
+r0
+
+CBuild AST from /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m
+r0
+
+CBuild AST from /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.m
+r0
+
+CBuild AST from /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/main.m
+r0
+
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies20d2cf68cf22b841^e8f9cf68cf22b841^---0#1#1#--18"Check dependencies36"F4A7ACA7-E0F5-4476-93CD-D0AD255894C3-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesada524bf5845b841^e23f25bf5845b841^---0#1#1#--18"Check dependencies36"D93EC705-DB54-4D4D-AF30-76AA83CB8B31-
 
 CCompileAssetCatalog /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Images.xcassets
 s404924480.738982
@@ -852,6 +1331,9 @@ o/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug
 o
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"CompileAssetCatalog Build/Products/Debug-iphonesimulator/EBNebo15.app EBNebo15/Images.xcassets94"CompileAssetCatalog Build/Products/Debug-iphonesimulator/EBNebo15.app EBNebo15/Images.xcassetse23fbd40a822b841^2369b742a822b841^-406"/* com.apple.actool.compilation-results *//Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/LaunchImage-700-568h@2x.png/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Assets.car/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@71"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Images.xcassets/0000000000000000^1146"CompileAssetCatalog Build/Products/Debug-iphonesimulator/EBNebo15.app EBNebo15/Images.xcassets    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Images.xcassets36"A7A8B384-E71F-4E86-BE86-51A26096ACBA-
 b42F6D3BF-FB5D-4817-82E6-4FEA279FC5C7
+
+CCompileAssetCatalog /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Images.xcassets
+r0
 
 CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s404934278.117688
@@ -911,6 +1393,101 @@ d/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSD
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m209"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler24431e86ce22b841^6c5a9d86ce22b841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m0000000000000000^3884"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o36"232EC59C-E804-4777-AC12-53DA609D9F88-
 b18484435-74F2-4D0D-9353-C2C7A133E4D4
 
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407195841.427820
+e407195841.967339
+r1
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.m
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFNetworkActivityIndicatorManager.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/Facebook.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFrictionlessRequestSettings.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBLoginDialog.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialog.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBRequest.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphObject.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphAction.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphObject.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBRequestConnection.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSessionManualTokenCachingStrategy.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSessionTokenCachingStrategy.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAccessTokenData.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSession.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FacebookSDK.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAppCall.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAppLinkData.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialogsData.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAppEvents.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBCacheDescriptor.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialogs.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphActionShareDialogParams.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialogsParams.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBShareDialogParams.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBError.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBErrorUtility.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFrictionlessRecipientCache.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBWebDialogs.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFriendPickerViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphUser.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphPlace.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphLocation.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBInsights.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBLoginView.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBNativeDialogs.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBPlacePickerViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBProfilePictureView.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSettings.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBUserSettingsViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.m209"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercfa46dc15045b841^66a3f7c15045b841^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.m0000000000000000^4310"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o EBNebo15/EBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.dia -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.m -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o36"06E0BB5D-C427-4B9D-A8B0-832B54D67EBC-
+bA2910D38-1E37-4A3B-BD66-41D7D59A5158
+
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407197887.204895
+e407197887.867354
+r1
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.o
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.m
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBProfilePictureView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.m233"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.o EBNebo15/EBDashboardViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc21435bf5845b841^450ddebf5845b841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.m0000000000000000^4382"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.o EBNebo15/EBDashboardViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.dia -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.m -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.o36"F47F801D-A68A-41EE-8B1F-42042A4FA5A6-
+b4B1FC271-E32C-44A5-8445-064A9614498E
+
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407193137.380616
+e407193137.423719
+r1
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.o
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.m
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain/SSKeychain.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain/SSKeychainQuery.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.m217"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.o EBNebo15/EBKeychianManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler098c61314645b841^bb7b6c314645b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.m0000000000000000^4334"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.o EBNebo15/EBKeychianManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.dia -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.m -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.o36"0171DEC9-70CB-43D4-A54B-64ABFC6854F0-
+b4DE25A1E-98EE-4831-8BA3-6ABF533069DC
+
 CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s404934504.827069
 e404934504.914113
@@ -968,6 +1545,64 @@ d/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSD
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginManager.m211"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o EBNebo15/EBLoginManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileredd5d368cf22b841^bb09ea68cf22b841^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginManager.m0000000000000000^3890"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o EBNebo15/EBLoginManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginManager.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o36"09D03E48-D7D2-4700-8E12-E0018C073625-
 bF39AECF0-92A8-4387-8E0E-19A2A466AFC0
 
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407195841.427353
+e407195841.969046
+r1
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/Facebook.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFrictionlessRequestSettings.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBLoginDialog.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialog.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBRequest.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphObject.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphAction.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphObject.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBRequestConnection.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSessionManualTokenCachingStrategy.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSessionTokenCachingStrategy.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAccessTokenData.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSession.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FacebookSDK.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAppCall.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAppLinkData.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialogsData.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBAppEvents.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBCacheDescriptor.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialogs.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBOpenGraphActionShareDialogParams.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBDialogsParams.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBShareDialogParams.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBError.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBErrorUtility.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFrictionlessRecipientCache.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBWebDialogs.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFriendPickerViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphUser.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphPlace.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBGraphLocation.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBInsights.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBLoginView.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBNativeDialogs.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBPlacePickerViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBProfilePictureView.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSettings.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBUserSettingsViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/NSError+FBError.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m211"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o EBNebo15/EBLoginManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1e8b6dc15045b841^9015f8c15045b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m0000000000000000^4316"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o EBNebo15/EBLoginManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.dia -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o36"ED195505-CF36-4E5F-9011-3DF9ECCB9946-
+bA2910D38-1E37-4A3B-BD66-41D7D59A5158
+
 CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s404934278.117013
 e404934278.500310
@@ -984,6 +1619,26 @@ d/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.h
 d/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginManager.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.m225"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o EBNebo15/EBLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler85441e86ce22b841^ce168086ce22b841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.m0000000000000000^3932"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o EBNebo15/EBLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o36"8D41017B-A51E-423E-8A03-7728E469D323-
 b18484435-74F2-4D0D-9353-C2C7A133E4D4
+
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407195841.425765
+e407195841.951325
+r1
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.m
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.m225"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o EBNebo15/EBLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb1146dc15045b841^4c8af3c15045b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.m0000000000000000^4358"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o EBNebo15/EBLoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.dia -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.m -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o36"41B3B095-EC1D-4D8D-A5FA-084C1FF1C7DB-
+bA2910D38-1E37-4A3B-BD66-41D7D59A5158
 
 CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s404931559.718995
@@ -1007,6 +1662,29 @@ d/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking/AFURLRequestSe
 d/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking/AFNetworkReachabilityManager.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m225"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae2db8e7c322b841^6ee0cee7c322b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m0000000000000000^3924"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o36"772F3DD9-F035-4E9C-9FE9-88806A089D50-
 bA5A223D4-62B3-4B67-94EB-78AEF5C18177
+
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407193137.340370
+e407193137.398425
+r1
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFHTTPRequestOperationManager.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFHTTPRequestOperation.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFURLConnectionOperation.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFSecurityPolicy.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFURLResponseSerialization.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFURLRequestSerialization.h
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m225"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd93f57314645b841^71ff65314645b841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m0000000000000000^4350"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o EBNebo15/Classes/EBNebo15APIClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.dia -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/Classes/EBNebo15APIClient.m -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o36"61862182-C412-4EE4-898E-EB3655C3BE86-
+b4DE25A1E-98EE-4831-8BA3-6ABF533069DC
 
 CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15IncrementalStore.o /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/Classes/EBNebo15IncrementalStore.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s404924214.917875
@@ -1043,6 +1721,22 @@ d/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBAppDelegate.h
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m191"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae461e86ce22b841^06f47a86ce22b841^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m0000000000000000^3830"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.dia -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/main.m -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o36"60C77EF0-861D-45AE-A705-84E3876DE042-
 b18484435-74F2-4D0D-9353-C2C7A133E4D4
 
+CCompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407195841.425953
+e407195841.949555
+r1
+xCompileC
+xBuild/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/main.m
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/main.m191"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler261d6dc15045b841^5d16f3c15045b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/main.m0000000000000000^4256"CompileC Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o EBNebo15/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator -include /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.dia -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/main.m -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o36"B4551B4C-ACF2-40C7-A2EF-5BE2D626DD56-
+bA2910D38-1E37-4A3B-BD66-41D7D59A5158
+
 CCompileXIB /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.xib
 s404934278.892400
 e404934279.073846
@@ -1051,6 +1745,27 @@ xCompileXIB
 x/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.xib
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compiling /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.xib45"CompileXIB EBNebo15/EBLoginViewController.xibbf82e486ce22b841^bce91287ce22b841^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.xib0000000000000000^781"CompileXIB EBNebo15/EBLoginViewController.xib    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBLoginViewController.nib /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBLoginViewController.xib36"B7EFB030-E4F2-4E6D-B6E3-DE0FF4E05097-
 b18484435-74F2-4D0D-9353-C2C7A133E4D4
+
+CCompileXIB /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.xib
+s407193137.968900
+e407193143.384457
+r1
+xCompileXIB
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compiling /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.xib49"CompileXIB EBNebo15/EBDashboardViewController.xib6613f8314645b841^f46c62374645b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.xib0000000000000000^850"CompileXIB EBNebo15/EBDashboardViewController.xib    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBDashboardViewController.nib /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBDashboardViewController.xib36"18BF14FF-AB5E-4E2F-8277-F4A2AFAC3EEE-
+b4DE25A1E-98EE-4831-8BA3-6ABF533069DC
+
+CCompileXIB /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib
+s407193137.968596
+e407193143.397127
+r1
+xCompileXIB
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib:is6-IC-NCv: warning: Frame for "Button - Button" will be different at run time. [16]
+o/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib:LYO-xG-gE0: warning: Frame for "Label" will be different at run time. [16]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compiling /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib45"CompileXIB EBNebo15/EBLoginViewController.xib8e02f8314645b841^a8a965374645b841^-377"/* com.apple.ibtool.document.warnings *//Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib:is6-IC-NCv: warning: Frame for "Button - Button" will be different at run time./Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib:LYO-xG-gE0: warning: Frame for "Label" will be different at run time.2(21%IDEActivityLogMessage2@58"Frame for "Button - Button" will be different at run time.-407193143#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@99"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#14"Misplaced View--2@48"Frame for "Label" will be different at run time.-407193143#18446744073709551615#0#-1#-3@99"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#14"Misplaced View--0#0#1#-19%DVTDocumentLocation4@99"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib0000000000000000^838"CompileXIB EBNebo15/EBLoginViewController.xib    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBLoginViewController.nib /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginViewController.xib36"6FB3AA30-A041-46BB-B617-7B0C2A7DC634-
+b4DE25A1E-98EE-4831-8BA3-6ABF533069DC
 
 CCopyStringsFile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/en.lproj/InfoPlist.strings EBNebo15/en.lproj/InfoPlist.strings
 s404924480.738742
@@ -1062,15 +1777,18 @@ xEBNebo15/en.lproj/InfoPlist.strings
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy EBNebo15/en.lproj/InfoPlist.strings128"CopyStringsFile Build/Products/Debug-iphonesimulator/EBNebo15.app/en.lproj/InfoPlist.strings EBNebo15/en.lproj/InfoPlist.strings5b28bd40a822b841^9d66bd40a822b841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/en.lproj/InfoPlist.strings0000000000000000^597"CopyStringsFile Build/Products/Debug-iphonesimulator/EBNebo15.app/en.lproj/InfoPlist.strings EBNebo15/en.lproj/InfoPlist.strings    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/en.lproj -- EBNebo15/en.lproj/InfoPlist.strings36"7322DEC8-0AF5-43EC-B7E3-B1513AAFDDD4-
 b42F6D3BF-FB5D-4817-82E6-4FEA279FC5C7
 
+CCopyStringsFile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/en.lproj/InfoPlist.strings EBNebo15/en.lproj/InfoPlist.strings
+r0
+
 CCpResource Podfile Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile
-s404931560.223211
-e404931560.228337
+s407193137.968695
+e407193137.975912
 r1
 xCpResource
 xPodfile
 xBuild/Products/Debug-iphonesimulator/EBNebo15.app/Podfile
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile76"CpResource Podfile Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile093339e8c322b841^96763ae8c322b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile0000000000000000^566"CpResource Podfile Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/evgenbakumenko/Desktop/EBNebo15/Podfile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app36"35FD9036-DA5F-4C13-A416-D49A84A83B48-
-bA5A223D4-62B3-4B67-94EB-78AEF5C18177
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile76"CpResource Podfile Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfileee07f8314645b841^49d6f9314645b841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile0000000000000000^623"CpResource Podfile Build/Products/Debug-iphonesimulator/EBNebo15.app/Podfile    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Podfile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app36"364229FB-6058-4057-AB35-B99AA1839AB5-
+b4DE25A1E-98EE-4831-8BA3-6ABF533069DC
 
 CDataModelVersionCompile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
 s404924213.775690
@@ -1082,6 +1800,9 @@ x/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"DataModelVersionCompile Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd EBNebo15/EBNebo15.xcdatamodeld118"DataModelVersionCompile Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd EBNebo15/EBNebo15.xcdatamodeld09a6c635a722b841^9a785f36a722b841^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld/0000000000000000^889"DataModelVersionCompile Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd EBNebo15/EBNebo15.xcdatamodeld    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -XD_MOMC_IOS_TARGET_VERSION=7.0 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd36"3BB3FD45-3ADB-41F2-880C-1D7D6480680B-
 bDA7F9A3B-E306-416F-925E-0DA4C860AF9B
 
+CDataModelVersionCompile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15.momd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15.xcdatamodeld
+r0
+
 CGenerateDSYMFile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15
 s404934505.022133
 e404934505.128078
@@ -1091,6 +1812,16 @@ x/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBN
 x/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM130"GenerateDSYMFile Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15feb40569cf22b841^5bee2069cf22b841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM/0000000000000000^667"GenerateDSYMFile Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM36"941EC747-0340-4ACB-B5E0-A7293CAAF604-
 bF39AECF0-92A8-4387-8E0E-19A2A466AFC0
+
+CGenerateDSYMFile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15
+s407197888.294753
+e407197888.430071
+r1
+xGenerateDSYMFile
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generate /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM130"GenerateDSYMFile Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo1513804bc05845b841^611a6ec05845b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM/0000000000000000^724"GenerateDSYMFile Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app.dSYM36"1D1F217F-C8FD-4632-8D76-8F46E3845E26-
+b4B1FC271-E32C-44A5-8445-064A9614498E
 
 CLd /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 normal i386
 s404934504.915777
@@ -1181,6 +1912,96 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo1573"Ld Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 normal i386917fea68cf22b841^4c520569cf22b841^---0#0#1#--1698"Ld Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 normal i386    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator -filelist /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework CoreLocation -framework MobileCoreServices -framework Security -framework SystemConfiguration -weak_framework Accounts -weak_framework AdSupport -weak_framework Security -weak_framework Social -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework Social -framework Accounts -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15_dependency_info.dat -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo1536"1CC0094D-869D-4402-AD0D-E481D7F067A3-
 bF39AECF0-92A8-4387-8E0E-19A2A466AFC0
 
+CLd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 normal i386
+s407197887.872982
+e407197888.290174
+r1
+xLd
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15
+xnormal
+xi386
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginViewController.o
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/main.o
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBLoginManager.o
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBAppDelegate.o
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBDashboardViewController.o
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15APIClient.o
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBKeychianManager.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Accounts.framework/Accounts
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Social.framework/Social
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo1573"Ld Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 normal i3867e8adfbf5845b841^064a4ac05845b841^---0#0#1#--1812"Ld Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo15 normal i386    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator -F/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator -filelist /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework CoreLocation -framework MobileCoreServices -framework Security -framework SystemConfiguration -weak_framework Accounts -weak_framework AdSupport -weak_framework Security -weak_framework Social -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework Social -framework Accounts -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Objects-normal/i386/EBNebo15_dependency_info.dat -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/EBNebo1536"6C7A3277-E22D-4A5D-AFD8-0D2FD4351A7B-
+b4B1FC271-E32C-44A5-8445-064A9614498E
+
 CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
 s404934504.812680
 e404934504.825251
@@ -1190,6 +2011,16 @@ xCheck Pods Manifest.lock
 x/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'154"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh6459d068cf22b841^7044d368cf22b841^---0#0#1#--362"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh    cd /Users/evgenbakumenko/Desktop/EBNebo15    /bin/sh -c /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh36"6FB61B6E-4006-438D-9881-12572D004AF5-
 bF39AECF0-92A8-4387-8E0E-19A2A466AFC0
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
+s407197887.148177
+e407197887.200045
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'154"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sha62a29bf5845b841^d63833bf5845b841^---0#0#1#--400"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    /bin/sh -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-1AB491AA1FA845F1B76CE6CC.sh36"0B0DE214-40AD-46BD-83C4-D383B77C048C-
+b4B1FC271-E32C-44A5-8445-064A9614498E
 
 CPhaseScriptExecution Copy\ Pods\ Resources /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh
 s404934505.128453
@@ -1206,6 +2037,24 @@ ototal size is 1071435  speedup is 1991.51
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'149"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh616c2169cf22b841^a94c3169cf22b841^-224"/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundlebuilding file list ... donesent 518 bytes  received 20 bytes  1076.00 bytes/sectotal size is 1071435  speedup is 1991.514(21%IDEActivityLogMessage2@100"/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle-404934505#0#100#-0#-----2@28"building file list ... done-404934505#100#28#-0#-----2@53"sent 518 bytes  received 20 bytes  1076.00 bytes/sec-404934505#129#53#-0#-----2@42"total size is 1071435  speedup is 1991.51-404934505#182#42#-0#-----0#0#1#--357"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh    cd /Users/evgenbakumenko/Desktop/EBNebo15    /bin/sh -c /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh36"28F4C8ED-3452-4AD0-BBB4-83B056F10A53-
 bF39AECF0-92A8-4387-8E0E-19A2A466AFC0
 
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh
+s407197888.430384
+e407197891.367243
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh
+o/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle
+obuilding file list ... done
+o
+osent 518 bytes  received 20 bytes  1076.00 bytes/sec
+ototal size is 1071435  speedup is 1991.51
+o/* com.apple.actool.compilation-results */
+o/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'149"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh527e6ec05845b841^6c045ec35845b841^-406"/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundlebuilding file list ... donesent 518 bytes  received 20 bytes  1076.00 bytes/sectotal size is 1071435  speedup is 1991.51/* com.apple.actool.compilation-results *//Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Assets.car6(21%IDEActivityLogMessage2@119"/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBUserSettingsViewResources.bundle-407197888#0#119#-0#-----2@28"building file list ... done-407197888#119#28#-0#-----2@53"sent 518 bytes  received 20 bytes  1076.00 bytes/sec-407197888#148#53#-0#-----2@42"total size is 1071435  speedup is 1991.51-407197888#201#42#-0#-----2@43"/* com.apple.actool.compilation-results */-407197891#243#43#-0#-----2@119"/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Assets.car-407197891#286#119#-0#-----0#0#1#--395"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    /bin/sh -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/Script-A2309E424AC94061B6A15318.sh36"9446C7B0-31B5-4169-926D-D8CA2E180885-
+b4B1FC271-E32C-44A5-8445-064A9614498E
+
 CProcessInfoPlistFile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Info.plist /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Info.plist
 s404934279.074246
 e404934279.077349
@@ -1215,6 +2064,9 @@ x/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBN
 x/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Info.plist
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Process /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Info.plist110"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/EBNebo15.app/Info.plist EBNebo15/EBNebo15-Info.plistd00f1387ce22b841^9acd1387ce22b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Info.plist0000000000000000^891"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/EBNebo15.app/Info.plist EBNebo15/EBNebo15-Info.plist    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Info.plist -genpkginfo /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/assetcatalog_generated_info.plist -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Info.plist36"60F67C48-1C83-49CA-B659-EFB080ADB2BD-
 b18484435-74F2-4D0D-9353-C2C7A133E4D4
+
+CProcessInfoPlistFile /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app/Info.plist /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15-Info.plist
+r0
 
 CProcessPCH /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-avaquyvflbnywhaedrxuafhlpxlw/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s404924213.776136
@@ -1246,6 +2098,24 @@ d/Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Prefix.pch
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile EBNebo15/EBNebo15-Prefix.pch215"ProcessPCH Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler78d282e7c322b841^d7dfb6e7c322b841^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Prefix.pch0000000000000000^3745"ProcessPCH Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch.dia -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch.d -c /Users/evgenbakumenko/Desktop/EBNebo15/EBNebo15/EBNebo15-Prefix.pch -o /Users/evgenbakumenko/Desktop/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-cgakmqdokpogawgidwnsnmbgqjgz/EBNebo15-Prefix.pch.pch36"604ADC33-9764-4973-872E-189F70C15430-
 bA5A223D4-62B3-4B67-94EB-78AEF5C18177
 
+CProcessPCH /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s407193137.189106
+e407193137.233550
+r1
+xProcessPCH
+x/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch.pch
+xEBNebo15/EBNebo15-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile EBNebo15/EBNebo15-Prefix.pch215"ProcessPCH Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler037b30314645b841^931e3e314645b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15-Prefix.pch0000000000000000^4152"ProcessPCH Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-generated-files.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-own-target-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-all-target-headers.hmap -iquote /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/EBNebo15-project-headers.hmap -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/include -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/AFNetworking -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/SSKeychain -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources/i386 -I/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/EBNebo15.build/Debug-iphonesimulator/EBNebo15.build/DerivedSources -F/Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch.dia -MMD -MT dependencies -MF /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch.d -c /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBNebo15-Prefix.pch -o /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Intermediates/PrecompiledHeaders/EBNebo15-Prefix-hetewijwkqzgcqgzvrkjakegqdat/EBNebo15-Prefix.pch.pch36"B4526F63-4DD4-42CD-916D-F12698433E84-
+b4DE25A1E-98EE-4831-8BA3-6ABF533069DC
+
+CProcessPCH /Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/EBNebo15-csodxctvizfztmbnvsyxwgayoaen/Index/PrecompiledHeaders/EBNebo15-Prefix-bwpxwipgvqtbcceezjutmurfhblr_ast/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
 CProcessPCH /Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/EBNebo15-gssvqorddwqghierlplgkjcexuov/Index/PrecompiledHeaders/EBNebo15-Prefix-eldiopjkyaeauwbxowrytsotmdgh_ast/EBNebo15-Prefix.pch.pch EBNebo15/EBNebo15-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
 
@@ -1253,5 +2123,8 @@ CProcessPCH /Users/evgenbakumenko/Library/Developer/Xcode/DerivedData/EBNebo15-g
 r0
 
 CTouch /Users/evgenbakumenko/Desktop/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app
+r0
+
+CTouch /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Build/Products/Debug-iphonesimulator/EBNebo15.app
 r0
 

@@ -113,19 +113,17 @@ didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
     /*
      * Opens a Facebook session and optionally shows the login UX.
      */
-- (BOOL)openSessionWithAllowLoginUI:(BOOL)allowLoginUI
+- (void)openSessionWithAllowLoginUI:(BOOL)allowLoginUI completion:(void(^)(BOOL))completion
 {
         NSArray *permissions = @[@"email"];
-        return [FBSession openActiveSessionWithReadPermissions:permissions                                              allowLoginUI:allowLoginUI
+        [FBSession openActiveSessionWithReadPermissions:permissions allowLoginUI:allowLoginUI
                                              completionHandler:^(FBSession *session,
                                                                  FBSessionState state,
                                                                  NSError *error) {
                                                  [self sessionStateChanged:session
                                                                      state:state
                                                                      error:error];
-                                                 if (!error) {
-                                                     [[NSNotificationCenter defaultCenter] postNotificationName:kNotificationSessionOpen object:nil];
-                                                 }
+                                                 completion(!error);
                                              }];
 }
 

@@ -1,22 +1,22 @@
 dependencies: \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestHandlerFactory.m \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestHandlerFactory.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSession.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBError.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBErrorUtility+Internal.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBErrorUtility.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequest+Internal.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequest.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBOpenGraphObject.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestConnection+Internal.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestMetadata.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestConnectionRetryManager.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSession+Internal.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSessionAppEventsState.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSystemAccountStoreAdapter.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBTask.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBTaskCompletionSource.h
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestHandlerFactory.m \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestHandlerFactory.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBAccessTokenData.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBError.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBErrorUtility+Internal.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBErrorUtility.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequest+Internal.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequest.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBOpenGraphObject.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestConnection+Internal.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestMetadata.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestConnectionRetryManager.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSession+Internal.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSessionAppEventsState.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSystemAccountStoreAdapter.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBTask.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBTaskCompletionSource.h

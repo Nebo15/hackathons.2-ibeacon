@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFrictionlessRecipientCache.m \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFrictionlessRecipientCache.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBCacheDescriptor.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSession.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequest.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBOpenGraphObject.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBWebDialogs.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFrictionlessDialogSupportDelegate.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFrictionlessRequestSettings.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSession+Internal.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSessionAppEventsState.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSystemAccountStoreAdapter.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBTask.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBTaskCompletionSource.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBUtility.h \
-  /Users/evgenbakumenko/Desktop/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFetchedAppSettings.h
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFrictionlessRecipientCache.m \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFrictionlessRecipientCache.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBCacheDescriptor.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSession.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequest.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBGraphObject.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBOpenGraphAction.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBOpenGraphObject.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBRequestConnection.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBWebDialogs.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFrictionlessDialogSupportDelegate.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFrictionlessRequestSettings.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSession+Internal.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSessionAppEventsState.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBSystemAccountStoreAdapter.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBTask.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBTaskCompletionSource.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBUtility.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Facebook-iOS-SDK/src/FBFetchedAppSettings.h

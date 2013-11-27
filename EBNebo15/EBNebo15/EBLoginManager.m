@@ -43,7 +43,7 @@ static NSString *const kFacebookUserId = @"id";
     NSString* fbAppId = dict[@"FacebookAppID"];
     
     if(!_accountStore)
-    _accountStore = [[ACAccountStore alloc] init];
+        _accountStore = [[ACAccountStore alloc] init];
     
     ACAccountType *facebookTypeAccount = [_accountStore accountTypeWithAccountTypeIdentifier:ACAccountTypeIdentifierFacebook];
     if (facebookTypeAccount) {
@@ -54,7 +54,7 @@ static NSString *const kFacebookUserId = @"id";
                                                     NSArray *accounts = [_accountStore accountsWithAccountType:facebookTypeAccount];
                                                     _facebookAccount = [accounts lastObject];
                                                     NSLog(@"Success");
-                                                
+                                                    
                                                     SLRequest *merequest = [SLRequest requestForServiceType:SLServiceTypeFacebook
                                                                                               requestMethod:SLRequestMethodGET
                                                                                                         URL:[NSURL URLWithString:EBFacebookGraphLoginURL]
@@ -67,11 +67,13 @@ static NSString *const kFacebookUserId = @"id";
                                                         NSDictionary* json = [NSJSONSerialization
                                                                               JSONObjectWithData:responseData
                                                                               
-                                                                              options:kNilOptions 
+                                                                              options:kNilOptions
                                                                               error:&err];
                                                         if (!json[kFacebookLoginEmail]) {
                                                             [[NSOperationQueue mainQueue] addOperationWithBlock:^{
-                                                                [self loginWithApp];
+                                                                [self loginUsingNativeAppWithCompletion:^(BOOL success) {
+                                                                    completion(success);
+                                                                }];
                                                             }];
                                                         }
                                                         else
@@ -83,18 +85,20 @@ static NSString *const kFacebookUserId = @"id";
                                                                 [[EBKeychianManager sharedManager] addAccountWithName:json[kFacebookLoginEmail] serviceName:@"Facebook"  withSuccess:^(BOOL success) {
                                                                     NSLog(@"Login success: %@", success?@"YES":@"NO");
                                                                 }];
-
+                                                                
                                                                 completion(YES);
                                                             }];
                                                         }
                                                     }];
-
+                                                    
                                                 }else{
                                                     // ouch
                                                     NSLog(@"Fail");
                                                     NSLog(@"Error: %@", error);
                                                     [[NSOperationQueue mainQueue] addOperationWithBlock:^{
-                                                        [self loginWithApp];
+                                                        [self loginUsingNativeAppWithCompletion:^(BOOL success) {
+                                                            completion(success);
+                                                        }];
                                                     }];
                                                 }
                                             }];
@@ -102,29 +106,30 @@ static NSString *const kFacebookUserId = @"id";
     }
     else
     {
-        [self loginWithApp];
+        [self loginUsingNativeAppWithCompletion:^(BOOL success) {
+            completion(success);
+        }];
     }
-
 }
 
-
 //login using Facebook SDK or Native app
-- (void)loginWithApp
+- (void)loginUsingNativeAppWithCompletion:(void(^)(BOOL))completion
 {
   if (FBSessionStateOpen != FBSession.activeSession.state)
   {
       EBAppDelegate *appDelegate = (EBAppDelegate*)[[UIApplication sharedApplication] delegate];
-      [appDelegate openSessionWithAllowLoginUI:YES];
-      return;
+      [appDelegate openSessionWithAllowLoginUI:YES completion:^(BOOL success) {
+          [[FBRequest requestForMe] startWithCompletionHandler:
+           ^(FBRequestConnection *connection,
+             NSDictionary<FBGraphUser> *user,
+             NSError *error) {
+               if (!error) {
+                   _user = user;
+                   completion(YES);
+               }
+           }];
+      }];
   }
-  [[FBRequest requestForMe] startWithCompletionHandler:
-   ^(FBRequestConnection *connection,
-     NSDictionary<FBGraphUser> *user,
-     NSError *error) {
-       if (!error) {
-           //login with user
-       }
-   }];
 }
 
 - (NSString*)facebookUserId
