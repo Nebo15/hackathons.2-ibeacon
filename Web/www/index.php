@@ -41,7 +41,7 @@ $router->post('/persons/[*:hash].json', function($request, $response)
 	$persons[$request->hash] = $person;
 	$persons->save();
 
-	return $response->json(true);
+	return $response->json(['success' => true]);
 });
 
 $router->delete('/persons/[*:hash].json', function($request, $response)
@@ -50,12 +50,8 @@ $router->delete('/persons/[*:hash].json', function($request, $response)
 	unset($persons[$request->hash]);
 	$persons->save();
 
-	return $response->json(true);
+	return $response->json(['success' => true]);
 });
-
-/*
-curl http://hackaton.2-ibeacon.dev/persons.json
-*/
 
 $router->dispatch();
 
