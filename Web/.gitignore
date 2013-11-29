@@ -11,5 +11,4 @@
 composer.lock
 .vagrant
 vendor
-
-www/lib/Override.js
+Web/www/*.json
