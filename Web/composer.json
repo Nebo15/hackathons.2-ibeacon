@@ -1,0 +1,20 @@
+{
+    "name": "credit-pilot/schet",
+    "description": "http://schet.ru/",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "require": {
+        "twig/twig": "1.*",
+        "limb/micro-limb": "dev-master",
+        "klein/klein": "2.0.x",
+        "guzzle/guzzle": "~3.7",
+        "filp/whoops": "1.*",
+        "nebo15/sondb": "dev-develop"
+    },
+    "config": {
+        "zeus": {
+            "stage_url": "http:\/\/zeus.nebo15.me",
+            "prod_url": "http:\/\/zeus.nebo15.me"
+        }
+    }
+}
