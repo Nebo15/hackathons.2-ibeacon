@@ -10,9 +10,25 @@ lmbLoader::load('src/Person.php');
 SonDb::$public_dir = PROJECT_DIR.'/www/';
 
 $router = new \Klein\Klein();
-/*
-curl -d "name=Никита Джигурда&website=https://www.facebook.com/dzhigurda12&userpic=http://bit.ly/1jPWzmz" http://hackaton.2-ibeacon.dev/persons/foobar42.json
-*/
+
+$router->get('/', function($request, $response)
+{
+	$host = $_SERVER['HTTP_HOST'];
+	$content =<<<EOD
+<h1>API</h1>
+
+<h3>Check in:</h3>
+<textarea cols="80" rows="3">curl -d "name=Никита Джигурда&website=https://www.facebook.com/dzhigurda12&userpic=http://bit.ly/1jPWzmz" http://{$host}/persons/foobar42.json</textarea>
+
+<h3>Check out:</h3>
+<textarea cols="80">curl -X DELETE http://{$host}/persons/foobar42.json</textarea>
+
+<h3>Checked in users:</h3>
+<textarea cols="80">curl http://{$host}/persons.json</textarea>
+EOD;
+	return $content;
+});
+
 $router->post('/persons/[*:hash].json', function($request, $response)
 {
 	$person = new Person;
@@ -28,9 +44,6 @@ $router->post('/persons/[*:hash].json', function($request, $response)
 	return $response->json(true);
 });
 
-/*
-curl -X DELETE http://hackaton.2-ibeacon.dev/persons/foobar42.json
-*/
 $router->delete('/persons/[*:hash].json', function($request, $response)
 {
 	$persons = Person::load();
