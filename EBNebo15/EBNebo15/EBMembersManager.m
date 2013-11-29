@@ -9,6 +9,7 @@
 #import "EBMembersManager.h"
 #import "EBLoginManager.h"
 #import "EBMember.h"
+#import "EBNebo15APIClient.h"
 
 @implementation EBMembersManager
 
@@ -24,13 +25,17 @@
 
 - (NSArray*)fakeMembers
 {
-    EBMember* member1 = [[EBMember alloc] initWithMemberID:0 name:[[EBLoginManager sharedManager] facebookUserName] statusID:_userState updateDate:[NSDate date] facebookID:[[EBLoginManager sharedManager] facebookUserId]];
+    EBMember* member1 = [[EBMember alloc] initWithMemberID:0 name:[[EBLoginManager sharedManager] facebookUserName] statusID:_userState updateDate:[NSDate date] facebookID:[[EBLoginManager sharedManager] facebookUserId]facebookLink:nil userPicLink:nil userEmail:nil];
     return @[member1];
 }
 
 - (void)setUserState:(CLRegionState)userState
 {
     _userState = userState;
+    
+    [[EBNebo15APIClient sharedClient] checkInWithMember:[[EBLoginManager sharedManager] currentMember] completion:^(BOOL success) {
+        
+    }];
 }
 
 @end

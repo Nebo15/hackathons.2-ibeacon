@@ -12,6 +12,7 @@
 #import <FBProfilePictureView.h>
 #import "ArrayDataSource.h"
 #import "EBMemberCell.h"
+#import "EBNebo15APIClient.h"
 @import CoreLocation;
 
 static NSString* const kMemberCellIdentifier = @"kMemberCellIdentifier";
@@ -151,6 +152,9 @@ static NSString* const kMemberCellIdentifier = @"kMemberCellIdentifier";
 - (void)locationManager:(CLLocationManager *)manager didEnterRegion:(CLRegion *)region
 {
     [self setupViewWithRegionState:CLRegionStateInside];
+    
+    //checkin user
+    
 }
 
 - (void)locationManager:(CLLocationManager *)manager didExitRegion:(CLRegion *)region

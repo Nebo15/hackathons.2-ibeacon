@@ -10,7 +10,7 @@
 
 @implementation EBMember
 
-- (id)initWithMemberID:(NSUInteger)memberID name:(NSString *)name statusID:(NSUInteger)statusID updateDate:(NSDate *)date facebookID:(NSString*)facebookID
+- (id)initWithMemberID:(NSUInteger)memberID name:(NSString *)name statusID:(NSUInteger)statusID updateDate:(NSDate *)date facebookID:(NSString*)facebookID facebookLink:(NSString *)facebookLink userPicLink:(NSString *)userPicLink userEmail:(NSString *)userEmail
 {
     if (self = [super init]) {
         _memberID = memberID;
@@ -18,6 +18,9 @@
         _statusID = statusID;
         _date = date;
         _facebookID = facebookID;
+        _link = facebookLink;
+        _userpic = userPicLink;
+        _email = userEmail;
     }
     return self;
 }

@@ -1,6 +1,6 @@
 #import "EBNebo15APIClient.h"
 
-static NSString * const kEBNebo15APIBaseURLString = @"<# API Base URL #>";
+static NSString * const kEBNebo15APIBaseURLString = @"http://hackaton.2-ibeacon.nebo15.me/persons/";
 
 @implementation EBNebo15APIClient
 
@@ -20,6 +20,43 @@ static NSString * const kEBNebo15APIBaseURLString = @"<# API Base URL #>";
         return nil;
     }
     return self;
+}
+
+#pragma mark - Check in/out user
+
+- (void)checkInWithMember:(EBMember *)member completion:(void (^)(BOOL))completion
+{
+    AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
+    manager.responseSerializer = [AFJSONResponseSerializer serializer];
+    [manager POST:[NSString stringWithFormat:@"%@%@.json", kEBNebo15APIBaseURLString, [member.name stringByReplacingOccurrencesOfString:@" " withString:@""]] parameters:@{@"id":member.facebookID, @"name":member.name, @"email":member.email, @"link":member.link, @"userpic":@"https://www.facebook.com/evgenbakumenko.jpg"} success:^(AFHTTPRequestOperation *operation, id responseObject) {
+        NSLog(@"%@", responseObject);
+    } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+        
+    }];
+}
+
+- (void)checkOutWithMember:(EBMember *)member completion:(void (^)(BOOL))completion
+{
+    AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
+    manager.responseSerializer = [AFJSONResponseSerializer serializer];
+    [manager DELETE:[NSString stringWithFormat:@"%@%@.json", kEBNebo15APIBaseURLString, [member.name stringByReplacingOccurrencesOfString:@" " withString:@""]] parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {
+        
+    } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+        
+    }];
+}
+
+#pragma mark - User list
+
+- (void)getUserListWithCompletion:(void(^)(BOOL))completion
+{
+    AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
+    manager.responseSerializer = [AFJSONResponseSerializer serializer];
+    [manager GET:[NSString stringWithFormat:@"%@.json", kEBNebo15APIBaseURLString] parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {
+        
+    } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+        
+    }];
 }
 
 @end

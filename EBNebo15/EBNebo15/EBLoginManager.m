@@ -8,8 +8,10 @@
 
 #import "EBLoginManager.h"
 #import "EBKeychianManager.h"
+#import "EBMembersManager.h"
 #import "EBAppDelegate.h"
 #import <Facebook.h>
+#import "EBMember.h"
 @import Accounts;
 @import Social;
 
@@ -18,6 +20,7 @@ static NSString *const kFacebookLoginEmail = @"email";
 static NSString *const kFacebookLoginError = @"error";
 static NSString *const kFacebookName = @"name";
 static NSString *const kFacebookUserId = @"id";
+static NSString *const kFacebookLink = @"link";
 
 @interface EBLoginManager()
 @property (nonatomic, strong) ACAccountStore *accountStore;
@@ -135,6 +138,13 @@ static NSString *const kFacebookUserId = @"id";
   }
 }
 
+#pragma mark - Current user
+
+- (EBMember*)currentMember
+{
+    return [[EBMember alloc] initWithMemberID:[_user[kFacebookUserId] integerValue] name:_user[kFacebookName] statusID:[[EBMembersManager sharedManager] userState] updateDate:[NSDate date] facebookID:_user[kFacebookUserId] facebookLink:_user[kFacebookLink] userPicLink:nil userEmail:_user[kFacebookLoginEmail]];
+}
+
 - (NSString*)facebookUserId
 {
     if (!_user) {
@@ -155,5 +165,6 @@ static NSString *const kFacebookUserId = @"id";
 {
     return [[EBKeychianManager sharedManager] isFacebookAccountExist];
 }
+
 
 @end

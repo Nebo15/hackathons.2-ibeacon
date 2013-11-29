@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+@class EBMember;
 
 @interface EBLoginManager : NSObject
 +(EBLoginManager*)sharedManager;
@@ -14,5 +15,5 @@
 - (NSString*)facebookUserId;
 - (NSString*)facebookUserName;
 - (BOOL)isUserLogined;
-
+- (EBMember*)currentMember;
 @end
