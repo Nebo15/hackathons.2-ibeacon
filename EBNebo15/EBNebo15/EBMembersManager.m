@@ -38,4 +38,12 @@
     }];
 }
 
+- (void)membersListWithCompletion:(void(^)(NSArray*))members
+{
+    [[EBNebo15APIClient sharedClient] getUserListWithCompletion:^(BOOL success, NSArray *membersArray) {
+        if(membersArray)
+            members(membersArray);
+    }];
+}
+
 @end

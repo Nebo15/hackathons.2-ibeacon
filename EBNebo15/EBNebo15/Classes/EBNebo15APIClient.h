@@ -6,5 +6,6 @@
 + (EBNebo15APIClient *)sharedClient;
 - (void)checkInWithMember:(EBMember*)member completion:(void(^)(BOOL))completion;
 - (void)checkOutWithMember:(EBMember*)member completion:(void(^)(BOOL))completion;
+- (void)getUserListWithCompletion:(void(^)(BOOL, NSArray*))completion;
 
 @end

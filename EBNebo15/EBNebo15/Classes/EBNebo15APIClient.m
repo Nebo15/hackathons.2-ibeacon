@@ -1,6 +1,6 @@
 #import "EBNebo15APIClient.h"
 
-static NSString * const kEBNebo15APIBaseURLString = @"http://hackaton.2-ibeacon.nebo15.me/persons/";
+static NSString * const kEBNebo15APIBaseURLString = @"http://hackaton.2-ibeacon.nebo15.me/person";
 
 @implementation EBNebo15APIClient
 
@@ -28,10 +28,11 @@ static NSString * const kEBNebo15APIBaseURLString = @"http://hackaton.2-ibeacon.
 {
     AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
     manager.responseSerializer = [AFJSONResponseSerializer serializer];
-    [manager POST:[NSString stringWithFormat:@"%@%@.json", kEBNebo15APIBaseURLString, [member.name stringByReplacingOccurrencesOfString:@" " withString:@""]] parameters:@{@"id":member.facebookID, @"name":member.name, @"email":member.email, @"link":member.link, @"userpic":@"https://www.facebook.com/evgenbakumenko.jpg"} success:^(AFHTTPRequestOperation *operation, id responseObject) {
+    [manager POST:[NSString stringWithFormat:@"%@/%@.json", kEBNebo15APIBaseURLString, [member.name stringByReplacingOccurrencesOfString:@" " withString:@""]] parameters:@{@"id":member.facebookID, @"name":member.name, @"email":member.email, @"link":member.link, @"userpic":@"https://www.facebook.com/evgenbakumenko.jpg"} success:^(AFHTTPRequestOperation *operation, id responseObject) {
         NSLog(@"%@", responseObject);
+        completion(YES);
     } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
-        
+        completion(NO);
     }];
 }
 
@@ -39,7 +40,7 @@ static NSString * const kEBNebo15APIBaseURLString = @"http://hackaton.2-ibeacon.
 {
     AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
     manager.responseSerializer = [AFJSONResponseSerializer serializer];
-    [manager DELETE:[NSString stringWithFormat:@"%@%@.json", kEBNebo15APIBaseURLString, [member.name stringByReplacingOccurrencesOfString:@" " withString:@""]] parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {
+    [manager DELETE:[NSString stringWithFormat:@"%@/%@.json", kEBNebo15APIBaseURLString, [member.name stringByReplacingOccurrencesOfString:@" " withString:@""]] parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {
         
     } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
         
@@ -48,14 +49,14 @@ static NSString * const kEBNebo15APIBaseURLString = @"http://hackaton.2-ibeacon.
 
 #pragma mark - User list
 
-- (void)getUserListWithCompletion:(void(^)(BOOL))completion
+- (void)getUserListWithCompletion:(void(^)(BOOL, NSArray*))completion
 {
     AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
     manager.responseSerializer = [AFJSONResponseSerializer serializer];
     [manager GET:[NSString stringWithFormat:@"%@.json", kEBNebo15APIBaseURLString] parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {
-        
+        completion(YES, [responseObject allValues]);
     } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
-        
+        completion(NO, nil);
     }];
 }
 

@@ -2,6 +2,7 @@ dependencies: \
   /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.m \
   /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBLoginManager.h \
   /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBKeychianManager.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBMembersManager.h \
   /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBAppDelegate.h \
   /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/Facebook.h \
   /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBFrictionlessRequestSettings.h \
@@ -42,4 +43,6 @@ dependencies: \
   /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBProfilePictureView.h \
   /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBSettings.h \
   /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/FBUserSettingsViewController.h \
-  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/NSError+FBError.h
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Facebook-iOS-SDK/FacebookSDK/NSError+FBError.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/EBNebo15/EBMember.h \
+  /Users/evgenbakumenko/Desktop/hackaton.2-ibeacon/EBNebo15/Pods/Headers/Mantle/MTLModel.h

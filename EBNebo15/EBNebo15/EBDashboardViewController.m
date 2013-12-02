@@ -95,11 +95,13 @@ static NSString* const kMemberCellIdentifier = @"kMemberCellIdentifier";
         [cell configureCellWithMember:member];
     };
     
-    self.membersDataSources = [[ArrayDataSource alloc] initWithItems:[[EBMembersManager sharedManager] fakeMembers] cellIdentifier:kMemberCellIdentifier configureCellBlock:configureCell];
-    self.pv_membersTableView.dataSource = self.membersDataSources;
-    self.pv_membersTableView.delegate = self;
-    [self.pv_membersTableView registerNib:[EBMemberCell nib] forCellReuseIdentifier:kMemberCellIdentifier];
-    [self.pv_membersTableView reloadData];
+    [[EBMembersManager sharedManager] membersListWithCompletion:^(NSArray * members) {
+        self.membersDataSources = [[ArrayDataSource alloc] initWithItems:members cellIdentifier:kMemberCellIdentifier configureCellBlock:configureCell];
+        self.pv_membersTableView.dataSource = self.membersDataSources;
+        self.pv_membersTableView.delegate = self;
+        [self.pv_membersTableView registerNib:[EBMemberCell nib] forCellReuseIdentifier:kMemberCellIdentifier];
+        [self.pv_membersTableView reloadData];
+    }];
 }
 
 #pragma mark - Location geofence

@@ -15,5 +15,6 @@
 + (EBMembersManager*)sharedManager;
 - (NSArray*)fakeMembers;
 - (void)setUserState:(CLRegionState)userState;
+- (void)membersListWithCompletion:(void(^)(NSArray*))members;
 
 @end
