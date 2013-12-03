@@ -6,7 +6,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="EBDashboardViewController">
             <connections>
-                <outlet property="pv_membersTableView" destination="8If-jp-c6d" id="4zw-A4-9xm"/>
+                <outlet property="pv_membersTableView" destination="8If-jp-c6d" id="VXu-eS-rkq"/>
                 <outlet property="userAvatarImageView" destination="MMj-i5-qsO" id="yb1-kb-PvP"/>
                 <outlet property="userListLabel" destination="1aC-OW-q9d" id="xbA-tt-NrN"/>
                 <outlet property="userNameLabel" destination="0PS-6i-U1h" id="udv-ec-2X5"/>

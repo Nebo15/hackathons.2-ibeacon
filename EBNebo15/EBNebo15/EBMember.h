@@ -8,8 +8,9 @@
 
 #import <Foundation/Foundation.h>
 #import <Mantle/MTLModel.h>
+#import <Mantle/MTLJSONAdapter.h>
 
-@interface EBMember : MTLModel
+@interface EBMember : MTLModel<MTLJSONSerializing>
 
 - (id)initWithMemberID:(NSUInteger)memberID name:(NSString*)name statusID:(NSUInteger)statusID updateDate:(NSDate*)date facebookID:(NSString*)facebookID facebookLink:(NSString*)facebookLink userPicLink:(NSString*)userPicLink userEmail:(NSString*)userEmail;;
 

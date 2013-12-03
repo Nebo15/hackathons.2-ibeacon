@@ -29,10 +29,10 @@
 
 - (void)configureCellWithMember:(EBMember*)member
 {
-    self.memberAvatarView.profileID = member.facebookID;
-    self.memberAvatarView.layer.cornerRadius = 23.0;
-    self.memberNameLabel.text = member.name;
-    self.updateDateLabel.text = [NSDate dayAndTimeWithDate:member.date];
+    _memberAvatarView.profileID = member.facebookID;
+    _memberAvatarView.layer.cornerRadius = 23.0;
+    _memberNameLabel.text = member.name;
+    _updateDateLabel.text = [NSDate dayAndTimeWithDate:member.date];
     
     UIView *circleView = [[UIView alloc] initWithFrame:CGRectMake(290,15,10,10)];
     circleView.layer.cornerRadius = 5;

@@ -7,6 +7,9 @@
 //
 
 #import "EBMember.h"
+#import <Mantle/MTLValueTransformer.h>
+
+static NSString *const EBMemberFacebookIDJSONTransformer = @"facebookIDJSONTransformer";
 
 @implementation EBMember
 
@@ -23,6 +26,32 @@
         _email = userEmail;
     }
     return self;
+}
+
++ (NSDictionary *)JSONKeyPathsByPropertyKey {
+    return @{
+             @"facebookID": @"last_login_stamp",
+             @"name": @"name",
+             @"userpic": @"userpic",
+             @"link": @"website"
+             };
+}
+
++ (NSValueTransformer *)JSONTransformerForKey:(NSString *)key
+{
+    if ([key isEqualToString:@"facebookID"]) {
+        return [NSValueTransformer valueTransformerForName:EBMemberFacebookIDJSONTransformer];
+    }
+    
+    return nil;
+}
+
++ (NSValueTransformer *)facebookIDJSONTransformer {
+    return [MTLValueTransformer reversibleTransformerWithForwardBlock:^(NSString *str) {
+        return [NSString stringWithFormat:@"%@",str];
+    } reverseBlock:^(NSDate *date) {
+        return [NSDate date];
+    }];
 }
 
 @end

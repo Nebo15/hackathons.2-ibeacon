@@ -52,9 +52,9 @@ static NSString* const kMemberCellIdentifier = @"kMemberCellIdentifier";
 - (void)setupViewWithRegionState:(CLRegionState)state
 {
     //setup user profile picture view
-    self.userAvatarImageView.profileID = [[EBLoginManager sharedManager] facebookUserId];
-    self.userAvatarImageView.pictureCropping = FBProfilePictureCroppingSquare;
-    self.userAvatarImageView.layer.cornerRadius = 50.0;
+    _userAvatarImageView.profileID = [[EBLoginManager sharedManager] facebookUserId];
+    _userAvatarImageView.pictureCropping = FBProfilePictureCroppingSquare;
+    _userAvatarImageView.layer.cornerRadius = 50.0;
     
     NSString *statusString;
     UIColor *statusColor;
@@ -75,18 +75,20 @@ static NSString* const kMemberCellIdentifier = @"kMemberCellIdentifier";
 
     
     //setup labels
-    self.userNameLabel.text = [NSString stringWithFormat:@"Вы вошли как: %@",[[EBLoginManager sharedManager] facebookUserName]];
-    self.userNameLabel.preferredMaxLayoutWidth = 200;
-    self.userStatusLabel.text = [NSString stringWithFormat:@"Статус: %@",statusString];
-    self.userStatusLabel.textColor = statusColor;
-    self.userStatusLabel.preferredMaxLayoutWidth = 200;
-    self.userListLabel.text  = @"Кто в офисе?";
+    _userNameLabel.text = [NSString stringWithFormat:@"Вы вошли как: %@",[[EBLoginManager sharedManager] facebookUserName]];
+    _userNameLabel.preferredMaxLayoutWidth = 200;
+    _userStatusLabel.text = [NSString stringWithFormat:@"Статус: %@",statusString];
+    _userStatusLabel.textColor = statusColor;
+    _userStatusLabel.preferredMaxLayoutWidth = 200;
+    _userListLabel.text  = @"Кто в офисе?";
     
     //save state
     [[EBMembersManager sharedManager] setUserState:CLRegionStateInside];
     
     //reload tableView
-    [self setupTableView];
+    if (state != CLRegionStateUnknown) {
+        [self setupTableView];
+    }
 }
 
 - (void)setupTableView
@@ -96,11 +98,11 @@ static NSString* const kMemberCellIdentifier = @"kMemberCellIdentifier";
     };
     
     [[EBMembersManager sharedManager] membersListWithCompletion:^(NSArray * members) {
-        self.membersDataSources = [[ArrayDataSource alloc] initWithItems:members cellIdentifier:kMemberCellIdentifier configureCellBlock:configureCell];
-        self.pv_membersTableView.dataSource = self.membersDataSources;
-        self.pv_membersTableView.delegate = self;
-        [self.pv_membersTableView registerNib:[EBMemberCell nib] forCellReuseIdentifier:kMemberCellIdentifier];
-        [self.pv_membersTableView reloadData];
+        _membersDataSources = [[ArrayDataSource alloc] initWithItems:members cellIdentifier:kMemberCellIdentifier configureCellBlock:configureCell];
+        _pv_membersTableView.dataSource = self.membersDataSources;
+        _pv_membersTableView.delegate = self;
+        [_pv_membersTableView registerNib:[EBMemberCell nib] forCellReuseIdentifier:kMemberCellIdentifier];
+        [_pv_membersTableView reloadData];
     }];
 }
 

@@ -10,6 +10,7 @@
 #import "EBLoginManager.h"
 #import "EBMember.h"
 #import "EBNebo15APIClient.h"
+#import <Mantle/MTLJSONAdapter.h>
 
 @implementation EBMembersManager
 
@@ -42,7 +43,17 @@
 {
     [[EBNebo15APIClient sharedClient] getUserListWithCompletion:^(BOOL success, NSArray *membersArray) {
         if(membersArray)
-            members(membersArray);
+        {
+            NSMutableArray *memberModels = [NSMutableArray array];
+            [membersArray enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
+                NSError *error = nil;
+                EBMember *member = [MTLJSONAdapter modelOfClass:EBMember.class fromJSONDictionary:obj error:&error];
+                if (!error) {
+                    [memberModels addObject:member];
+                }
+            }];
+            members(memberModels);
+        }
     }];
 }
 
