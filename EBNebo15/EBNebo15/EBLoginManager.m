@@ -142,7 +142,7 @@ static NSString *const kFacebookLink = @"link";
 
 - (EBMember*)currentMember
 {
-    return [[EBMember alloc] initWithMemberID:[_user[kFacebookUserId] integerValue] name:_user[kFacebookName] statusID:[[EBMembersManager sharedManager] userState] updateDate:[NSDate date] facebookID:_user[kFacebookUserId] facebookLink:_user[kFacebookLink] userPicLink:nil userEmail:_user[kFacebookLoginEmail]];
+    return [[EBMember alloc] initWithMemberID:[_user[kFacebookUserId] integerValue] name:_user[kFacebookName] statusID:[[EBMembersManager sharedManager] userState] updateDate:nil facebookID:_user[kFacebookUserId] facebookLink:_user[kFacebookLink] userPicLink:nil userEmail:_user[kFacebookLoginEmail]];
 }
 
 - (NSString*)facebookUserId

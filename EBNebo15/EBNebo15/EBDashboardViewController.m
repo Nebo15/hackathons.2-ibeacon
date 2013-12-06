@@ -47,6 +47,10 @@ static NSString* const kMemberCellIdentifier = @"kMemberCellIdentifier";
         _locationManager.desiredAccuracy = kCLLocationAccuracyBest;
         [_locationManager startMonitoringForRegion:[self officeRegion]];
     }
+    [[NSNotificationCenter defaultCenter]addObserver:self
+                                            selector:@selector(reloadMembersList:)
+                                                name:UIApplicationDidBecomeActiveNotification
+                                              object:nil];
 }
 
 - (void)setupViewWithRegionState:(CLRegionState)state
@@ -187,6 +191,25 @@ static NSString* const kMemberCellIdentifier = @"kMemberCellIdentifier";
     if (state == CLRegionStateUnknown) {
         [manager requestStateForRegion:[self officeRegion]];
     }
+}
+
+- (IBAction)reloadMembersListClicked:(id)sender
+{
+    UIButton *btn = sender;
+    CABasicAnimation *fullRotation = [CABasicAnimation animationWithKeyPath:@"transform.rotation"];
+    fullRotation.fromValue = [NSNumber numberWithFloat:0];
+    fullRotation.toValue = [NSNumber numberWithFloat:((360*M_PI)/180)];
+    fullRotation.duration = 1;
+    fullRotation.repeatCount = 3;
+    [btn.layer addAnimation:fullRotation forKey:@"360"];
+    [self setupTableView];
+}
+
+#pragma mark - Notifications
+
+- (void)reloadMembersList:(NSNotification *)ntf
+{
+    [self setupTableView];
 }
 
 @end
