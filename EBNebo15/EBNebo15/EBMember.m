@@ -13,13 +13,13 @@ static NSString *const EBMemberFacebookIDJSONTransformer = @"facebookIDJSONTrans
 
 @implementation EBMember
 
-- (id)initWithMemberID:(NSUInteger)memberID name:(NSString *)name statusID:(NSUInteger)statusID updateDate:(NSDate *)date facebookID:(NSString*)facebookID facebookLink:(NSString *)facebookLink userPicLink:(NSString *)userPicLink userEmail:(NSString *)userEmail
+- (id)initWithMemberID:(NSUInteger)memberID name:(NSString *)name statusID:(NSUInteger)statusID updateDate:(NSString *)dateTimeInteval facebookID:(NSString *)facebookID facebookLink:(NSString *)facebookLink userPicLink:(NSString *)userPicLink userEmail:(NSString *)userEmail
 {
     if (self = [super init]) {
         _memberID = memberID;
         _name = name;
         _statusID = statusID;
-        _date = date;
+        _dateTimeInteval = dateTimeInteval;
         _facebookID = facebookID;
         _link = facebookLink;
         _userpic = userPicLink;
@@ -30,28 +30,11 @@ static NSString *const EBMemberFacebookIDJSONTransformer = @"facebookIDJSONTrans
 
 + (NSDictionary *)JSONKeyPathsByPropertyKey {
     return @{
-             @"facebookID": @"last_login_stamp",
+             @"dateTimeInteval": @"last_login_stamp",
              @"name": @"name",
              @"userpic": @"userpic",
              @"link": @"website"
              };
-}
-
-+ (NSValueTransformer *)JSONTransformerForKey:(NSString *)key
-{
-    if ([key isEqualToString:@"facebookID"]) {
-        return [NSValueTransformer valueTransformerForName:EBMemberFacebookIDJSONTransformer];
-    }
-    
-    return nil;
-}
-
-+ (NSValueTransformer *)facebookIDJSONTransformer {
-    return [MTLValueTransformer reversibleTransformerWithForwardBlock:^(NSString *str) {
-        return [NSString stringWithFormat:@"%@",str];
-    } reverseBlock:^(NSDate *date) {
-        return [NSDate date];
-    }];
 }
 
 @end

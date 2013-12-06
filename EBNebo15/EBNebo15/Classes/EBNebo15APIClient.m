@@ -32,7 +32,7 @@ static NSString * const kEBNebo15APIBaseURLString = @"http://hackaton.2-ibeacon.
                                                                                                                                                                                    @"name":member.name,
                                                                                                                                                                                    @"email":member.email,
                                                                                                                                                                                    @"link":member.link,
-                                                                                                                                                                                   @"userpic":@"https://www.facebook.com/evgenbakumenko.jpg",
+                                                                                                                                                                                   @"userpic":member.facebookID,
                                                                                                                                                                                    @"statusID":@(member.statusID)} success:^(AFHTTPRequestOperation *operation, id responseObject) {
         NSLog(@"%@", responseObject);
         completion(YES);
@@ -59,7 +59,7 @@ static NSString * const kEBNebo15APIBaseURLString = @"http://hackaton.2-ibeacon.
     AFHTTPRequestOperationManager *manager = [AFHTTPRequestOperationManager manager];
     manager.responseSerializer = [AFJSONResponseSerializer serializer];
     [manager GET:[NSString stringWithFormat:@"%@person.json", kEBNebo15APIBaseURLString] parameters:nil success:^(AFHTTPRequestOperation *operation, id responseObject) {
-        completion(YES, [responseObject allValues]);
+        completion(YES, [responseObject isKindOfClass:[NSDictionary class]]? [responseObject allValues]:nil);
     } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
         completion(NO, nil);
     }];

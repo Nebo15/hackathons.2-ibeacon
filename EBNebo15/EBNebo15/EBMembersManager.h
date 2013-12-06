@@ -14,7 +14,7 @@
 @property (nonatomic, readonly, assign) CLRegionState userState;
 + (EBMembersManager*)sharedManager;
 - (NSArray*)fakeMembers;
-- (void)setUserState:(CLRegionState)userState;
+- (void)setUserState:(CLRegionState)userState completion:(void(^)(BOOL))completion;
 - (void)membersListWithCompletion:(void(^)(NSArray*))members;
 
 @end

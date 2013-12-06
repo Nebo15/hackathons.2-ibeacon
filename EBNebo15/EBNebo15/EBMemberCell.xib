@@ -14,7 +14,7 @@
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fMG-Px-bAE" customClass="FBProfilePictureView">
-                        <rect key="frame" x="8" y="0.0" width="47" height="43"/>
+                        <rect key="frame" x="8" y="2" width="40" height="40"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
@@ -34,14 +34,14 @@
                 </subviews>
                 <constraints>
                     <constraint firstItem="tpu-ua-QnM" firstAttribute="top" secondItem="39b-PA-G8K" secondAttribute="top" constant="22" id="85f-Cw-HCh"/>
-                    <constraint firstItem="fMG-Px-bAE" firstAttribute="top" secondItem="39b-PA-G8K" secondAttribute="top" id="PV6-nC-KPP"/>
+                    <constraint firstItem="fMG-Px-bAE" firstAttribute="top" secondItem="39b-PA-G8K" secondAttribute="top" constant="2" id="PV6-nC-KPP"/>
                     <constraint firstItem="fMG-Px-bAE" firstAttribute="leading" secondItem="39b-PA-G8K" secondAttribute="leading" constant="8" id="Pef-aQ-ZtW"/>
                     <constraint firstItem="Hsz-rx-5eb" firstAttribute="top" secondItem="39b-PA-G8K" secondAttribute="top" constant="4" id="Ult-9H-2pp"/>
-                    <constraint firstAttribute="bottom" secondItem="fMG-Px-bAE" secondAttribute="bottom" id="dTx-Wt-d2e"/>
-                    <constraint firstAttribute="trailing" secondItem="fMG-Px-bAE" secondAttribute="trailing" constant="265" id="dUh-cy-noL"/>
+                    <constraint firstAttribute="bottom" secondItem="fMG-Px-bAE" secondAttribute="bottom" constant="1" id="dTx-Wt-d2e"/>
+                    <constraint firstAttribute="trailing" secondItem="fMG-Px-bAE" secondAttribute="trailing" constant="272" id="dUh-cy-noL"/>
                     <constraint firstItem="tpu-ua-QnM" firstAttribute="trailing" secondItem="Hsz-rx-5eb" secondAttribute="trailing" id="fGW-sc-uxc"/>
-                    <constraint firstItem="tpu-ua-QnM" firstAttribute="bottom" secondItem="fMG-Px-bAE" secondAttribute="bottom" id="jAX-Oz-o0q"/>
-                    <constraint firstItem="Hsz-rx-5eb" firstAttribute="leading" secondItem="fMG-Px-bAE" secondAttribute="trailing" constant="13" id="mKr-Uh-xAy"/>
+                    <constraint firstItem="tpu-ua-QnM" firstAttribute="bottom" secondItem="fMG-Px-bAE" secondAttribute="bottom" constant="1" id="jAX-Oz-o0q"/>
+                    <constraint firstItem="Hsz-rx-5eb" firstAttribute="leading" secondItem="fMG-Px-bAE" secondAttribute="trailing" constant="20" id="mKr-Uh-xAy"/>
                     <constraint firstItem="tpu-ua-QnM" firstAttribute="leading" secondItem="Hsz-rx-5eb" secondAttribute="leading" id="yHI-KD-5fh"/>
                 </constraints>
             </tableViewCellContentView>

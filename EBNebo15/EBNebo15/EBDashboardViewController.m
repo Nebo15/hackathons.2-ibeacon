@@ -83,12 +83,12 @@ static NSString* const kMemberCellIdentifier = @"kMemberCellIdentifier";
     _userListLabel.text  = @"Кто в офисе?";
     
     //save state
-    [[EBMembersManager sharedManager] setUserState:CLRegionStateInside];
-    
-    //reload tableView
-    if (state != CLRegionStateUnknown) {
-        [self setupTableView];
-    }
+    [[EBMembersManager sharedManager] setUserState:state completion:^(BOOL finished) {
+        //reload tableView
+        if (state != CLRegionStateUnknown) {
+            [self setupTableView];
+        }
+    }];
 }
 
 - (void)setupTableView

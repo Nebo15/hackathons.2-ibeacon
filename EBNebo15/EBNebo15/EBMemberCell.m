@@ -29,17 +29,15 @@
 
 - (void)configureCellWithMember:(EBMember*)member
 {
-    _memberAvatarView.profileID = member.facebookID;
-    _memberAvatarView.layer.cornerRadius = 23.0;
+    _memberAvatarView.profileID = member.userpic;
+    _memberAvatarView.layer.cornerRadius = 20.0;
     _memberNameLabel.text = member.name;
-    _updateDateLabel.text = [NSDate dayAndTimeWithDate:member.date];
+    _updateDateLabel.text = [NSDate dayAndTimeWithTimeInterval:member.dateTimeInteval];
     
     UIView *circleView = [[UIView alloc] initWithFrame:CGRectMake(290,15,10,10)];
     circleView.layer.cornerRadius = 5;
-    circleView.backgroundColor = member.statusID == CLRegionStateInside?[UIColor greenColor]:[UIColor redColor];
+    circleView.backgroundColor = [UIColor greenColor];
     [self addSubview:circleView];
-    
-    self.contentView.alpha = member.statusID == CLRegionStateInside?1.0:0.5;
 }
 
 @end

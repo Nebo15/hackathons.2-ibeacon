@@ -26,17 +26,25 @@
 
 - (NSArray*)fakeMembers
 {
-    EBMember* member1 = [[EBMember alloc] initWithMemberID:0 name:[[EBLoginManager sharedManager] facebookUserName] statusID:_userState updateDate:[NSDate date] facebookID:[[EBLoginManager sharedManager] facebookUserId]facebookLink:nil userPicLink:nil userEmail:nil];
+    EBMember* member1 = [[EBMember alloc] initWithMemberID:0 name:[[EBLoginManager sharedManager] facebookUserName] statusID:_userState updateDate:nil facebookID:[[EBLoginManager sharedManager] facebookUserId]facebookLink:nil userPicLink:nil userEmail:nil];
     return @[member1];
 }
 
-- (void)setUserState:(CLRegionState)userState
+- (void)setUserState:(CLRegionState)userState completion:(void(^)(BOOL))completion
 {
     _userState = userState;
     
-    [[EBNebo15APIClient sharedClient] checkInWithMember:[[EBLoginManager sharedManager] currentMember] completion:^(BOOL success) {
-        
-    }];
+    if (userState == CLRegionStateInside) {
+        [[EBNebo15APIClient sharedClient] checkInWithMember:[[EBLoginManager sharedManager] currentMember] completion:^(BOOL success) {
+            completion(success);
+        }];
+    }
+    else
+    {
+        [[EBNebo15APIClient sharedClient] checkOutWithMember:[[EBLoginManager sharedManager] currentMember] completion:^(BOOL success) {
+            completion(success);
+        }];
+    }
 }
 
 - (void)membersListWithCompletion:(void(^)(NSArray*))members
@@ -54,6 +62,7 @@
             }];
             members(memberModels);
         }
+        else members(nil);
     }];
 }
 
